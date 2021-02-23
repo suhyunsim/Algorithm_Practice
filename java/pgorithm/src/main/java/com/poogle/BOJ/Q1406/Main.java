@@ -1,8 +1,8 @@
 package main.java.com.poogle.BOJ.Q1406;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.LinkedList;
+import java.util.ListIterator;
 
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -10,32 +10,34 @@ public class Main {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         String[] str = br.readLine().split("");
-        List<Character> list = new ArrayList<>();
-        int index = str.length;
+        LinkedList<Character> list = new LinkedList<>();
+        ListIterator<Character> iterator = list.listIterator();
+
         for (String s : str) {
-            list.add(s.charAt(0));
+            iterator.add(s.charAt(0));
         }
+
         int m = Integer.parseInt(br.readLine());
-        int len = index;
 
         while (m-- > 0) {
             char[] input = br.readLine().toCharArray();
             switch (input[0]) {
                 case 'L':
-                    if (index != 0)
-                        index--;
+                    if (iterator.hasPrevious())
+                        iterator.previous();
                     break;
                 case 'D':
-                    if (index != len)
-                        index++;
+                    if (iterator.hasNext())
+                        iterator.next();
                     break;
                 case 'B':
-                    if (index != 0)
-                        list.remove(--index);
+                    if (iterator.hasPrevious()) {
+                        iterator.previous();
+                        iterator.remove();
+                    }
                     break;
                 default:
-                    list.add(index++, input[2]);
-                    len++;
+                    iterator.add(input[2]);
                     break;
             }
         }
