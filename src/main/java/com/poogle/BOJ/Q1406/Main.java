@@ -1,8 +1,7 @@
 package main.java.com.poogle.BOJ.Q1406;
 
 import java.io.*;
-import java.util.LinkedList;
-import java.util.ListIterator;
+import java.util.Stack;
 
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -10,40 +9,44 @@ public class Main {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         String[] str = br.readLine().split("");
-        LinkedList<Character> list = new LinkedList<>();
-        ListIterator<Character> iterator = list.listIterator();
+        int m = Integer.parseInt(br.readLine());
+
+        Stack<String> left = new Stack<>();
+        Stack<String> right = new Stack<>();
 
         for (String s : str) {
-            iterator.add(s.charAt(0));
+            left.push(s);
         }
 
-        int m = Integer.parseInt(br.readLine());
 
         while (m-- > 0) {
             char[] input = br.readLine().toCharArray();
             switch (input[0]) {
                 case 'L':
-                    if (iterator.hasPrevious())
-                        iterator.previous();
+                    if (!left.isEmpty())
+                        right.push(left.pop());
                     break;
                 case 'D':
-                    if (iterator.hasNext())
-                        iterator.next();
+                    if (!right.isEmpty())
+                        left.push(right.pop());
                     break;
                 case 'B':
-                    if (iterator.hasPrevious()) {
-                        iterator.previous();
-                        iterator.remove();
+                    if (!left.isEmpty()) {
+                        left.pop();
                     }
                     break;
+                case 'P':
+                    left.push(String.valueOf(input[2]));
+                    break;
                 default:
-                    iterator.add(input[2]);
                     break;
             }
         }
-        for (char c : list) {
-            bw.write(c);
-        }
+        while (!left.isEmpty())
+            right.push(left.pop());
+        while (!right.isEmpty())
+            bw.write(right.pop());
         bw.flush();
+        bw.close();
     }
 }
