@@ -1,47 +1,76 @@
 package main.java.com.poogle.BOJ.Q10828;
 
-import java.io.*;
-import java.util.Stack;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
 public class Main {
+    public static int[] stack;
+    public static int size = 0;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(br.readLine());
-        Stack<String> stack = new Stack<>();
-        while (n-- > 0) {
-            String[] command = br.readLine().split(" ");
-            switch (command[0]) {
+        StringBuilder sb = new StringBuilder();
+        StringTokenizer st;
+        int N = Integer.parseInt(br.readLine());
+        stack = new int[N];
+        while (N-- > 0) {
+            st = new StringTokenizer(br.readLine(), " ");
+            switch (st.nextToken()) {
                 case "push":
-                    stack.push(command[1]);
+                    push(Integer.parseInt(st.nextToken()));
                     break;
                 case "pop":
-                    if (!stack.isEmpty()) {
-                        System.out.println(stack.pop());
-                    } else {
-                        System.out.println("-1");
-                    }
+                    sb.append(pop()).append('\n');
                     break;
                 case "size":
-                    System.out.println(stack.size());
+                    sb.append(size()).append('\n');
                     break;
                 case "empty":
-                    if (stack.isEmpty()) {
-                        System.out.println("1");
-                    } else {
-                        System.out.println("0");
-                    }
+                    sb.append(empty()).append('\n');
                     break;
                 case "top":
-                    if (!stack.isEmpty()) {
-                        System.out.println(stack.peek());
-                    } else {
-                        System.out.println("-1");
-                    }
-                    break;
-                default:
+                    sb.append(top()).append('\n');
                     break;
             }
         }
-        br.close();
+        System.out.println(sb);
+    }
+
+    public static void push(int item) {
+        stack[size] = item;
+        size++;
+    }
+
+    public static int pop() {
+        if (size == 0) {
+            return -1;
+        } else {
+            int res = stack[size - 1];
+            stack[size - 1] = 0;
+            size--;
+            return res;
+        }
+    }
+
+    public static int size() {
+        return size;
+    }
+
+    public static int empty() {
+        if (size == 0) {
+            return 1;
+        } else {
+            return 0;
+        }
+    }
+
+    public static int top() {
+        if (size == 0) {
+            return -1;
+        } else {
+            return stack[size - 1];
+        }
     }
 }
