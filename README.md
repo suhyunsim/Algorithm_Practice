@@ -20,6 +20,7 @@ Closed #24
 # 문제 정리 📑
 ## 기초
 - [x] [BOJ - 10871. X보다 작은 수](https://github.com/suhyunsim/Algorithm_Practice/issues/1)
+- [x] [BOJ - 10871. X보다 작은 수](https://github.com/suhyunsim/Algorithm_Practice/issues/1)
 - [x] [BOJ - 10808. 알파벳 개수](https://github.com/suhyunsim/Algorithm_Practice/issues/2)
 - [x] [BOJ - 10807. 개수 세기](https://github.com/suhyunsim/Algorithm_Practice/issues/3)
 - [x] [BOJ - 2577. 숫자의 개수](https://github.com/suhyunsim/Algorithm_Practice/issues/4)
@@ -52,6 +53,7 @@ Closed #24
 ### 큐
 - [x] [BOJ - 1158. 요세푸스 문제](https://github.com/suhyunsim/Algorithm_Practice/issues/18)
 - [x] [BOJ - 10871. X보다 작은 수](https://github.com/suhyunsim/Algorithm_Practice/issues/1)
+- [x] [BOJ - 10845.큐](https://github.com/suhyunsim/Algorithm_Practice/issues/25)
 
 ### 덱
 - [x] [BOJ - 5397. 키로거](https://github.com/suhyunsim/Algorithm_Practice/issues/17)
