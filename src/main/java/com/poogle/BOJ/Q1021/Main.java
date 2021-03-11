@@ -1,32 +1,35 @@
 package main.java.com.poogle.BOJ.Q1021;
 
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        ArrayList<Integer> list = new ArrayList<>();
-        boolean flag;
+        Deque<Integer> list = new LinkedList<>();
+        int cnt = 0;
         for (int i = 1; i <= n; i++) {
             list.add(i);
         }
-        int cnt = 0;
+
         int m = sc.nextInt();
         while (m-- > 0) {
             int num = sc.nextInt();
-            flag = false;
-            while (!flag) {
-                if (list.get(0) == num) {
-                    list.remove(0);
-                    flag = true;
+            while (true) {
+                int index = 0;
+                for (Integer integer : list) {
+                    if (integer.equals(num))
+                        break;
+                    index++;
+                }
+                if (index == 0) {
+                    list.pollFirst();
+                    break;
+                } else if (index > list.size() / 2){
+                    list.addFirst(list.removeLast());
+                    cnt++;
                 } else {
-                    if (list.indexOf(num) <= list.size() / 2) {
-                        list.add(list.size() - 1, list.remove(0)); // 앞에서 빼기
-                    } else {
-                        list.add(0, list.remove(list.size() - 1)); // 뒤에서 빼기
-                    }
+                    list.addLast(list.removeFirst());
                     cnt++;
                 }
             }
