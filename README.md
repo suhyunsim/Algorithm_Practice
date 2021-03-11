@@ -1,9 +1,9 @@
-# Algorithm_Practice
+# Algorithm_Practice 📚
 자료구조 & 알고리즘 문제풀이 저장소
 
-> [BackStage 그룹의 WeekBack 알고리즘 Repository](https://github.com/back-stage/WeekBack-Algorithm)
+> 🗂 [BackStage 그룹의 WeekBack 알고리즘 Repository](https://github.com/back-stage/WeekBack-Algorithm)
 
-### Commit Convention
+### Commit Convention 🤓
 ```
 출처: 번호 풀이
 
@@ -17,7 +17,7 @@ boj: 6198 풀이
 Closed #24
 ```
 
-# 문제 정리
+# 문제 정리 📑
 ## 기초
 - [x] [BOJ - 10871. X보다 작은 수](https://github.com/suhyunsim/Algorithm_Practice/issues/1)
 - [x] [BOJ - 10808. 알파벳 개수](https://github.com/suhyunsim/Algorithm_Practice/issues/2)
