@@ -52,8 +52,10 @@ Closed #24
 ### 큐, 덱
 - [x] [BOJ - 5397. 키로거](https://github.com/suhyunsim/Algorithm_Practice/issues/17)
 - [x] [BOJ - 1158. 요세푸스 문제](https://github.com/suhyunsim/Algorithm_Practice/issues/18)
+- [x] [BOJ - 11866. 요세푸스 문제 0](https://github.com/suhyunsim/Algorithm_Practice/issues/34)
 - [x] [BOJ - 10845.큐](https://github.com/suhyunsim/Algorithm_Practice/issues/25)
 - [x] [BOJ - 18258. 큐 2](https://github.com/suhyunsim/Algorithm_Practice/issues/26)
 - [x] [BOJ - 2164. 카드 2](https://github.com/suhyunsim/Algorithm_Practice/issues/27)
 - [x] [BOJ - 10866. 덱](https://github.com/suhyunsim/Algorithm_Practice/issues/28)
 - [ ] [BOJ - 1021. 회전하는 큐](https://github.com/suhyunsim/Algorithm_Practice/issues/29)
+- [ ] [BOJ - 5430. AC](https://github.com/suhyunsim/Algorithm_Practice/issues/30)
