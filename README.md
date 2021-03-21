@@ -49,6 +49,9 @@ Closed #24
 - [ ] [BOJ - 2493. 탑](https://github.com/suhyunsim/Algorithm_Practice/issues/23)
 - [ ] [BOJ - 6198. 옥상 정원 꾸미기](https://github.com/suhyunsim/Algorithm_Practice/issues/24)
 - [x] [BOJ - 4949. 균형잡힌 세상](https://github.com/suhyunsim/Algorithm_Practice/issues/32)
+- [x] [BOJ - 9012. 괄호](https://github.com/suhyunsim/Algorithm_Practice/issues/31)
+- [ ] [BOJ - 10799. 쇠막대기](https://github.com/suhyunsim/Algorithm_Practice/issues/35)
+- [ ] [BOJ - 2504. 괄호의 값](https://github.com/suhyunsim/Algorithm_Practice/issues/36)
 
 
 ### 큐, 덱
