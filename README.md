@@ -30,6 +30,16 @@ Closed #24
 - [x] [BOJ - 2920. 음계](https://github.com/suhyunsim/Algorithm_Practice/issues/10)
 - [ ] [LC - 7. Reverse Integer](https://github.com/suhyunsim/Algorithm_Practice/issues/14)
 - [x] [PG - 완주하지 못한 선수](https://github.com/suhyunsim/Algorithm_Practice/issues/15)
+- [x] [BOJ - 10430. 나머지](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q10430/Main.java)
+- [x] [BOJ - 4375. 1](https://github.com/suhyunsim/Algorithm_Practice/issues/43)
+- [x] [BOJ - 1037. 약수](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1037/Main.java)
+- [x] [BOJ - 17427. 약수의 합 2](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q17427/Main.java)
+- [ ] [BOJ - 17425. 약수의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/44)
+- [x] [BOJ - 2609. 최대공약수와 최소공배수](https://github.com/suhyunsim/Algorithm_Practice/issues/45)
+- [x] [BOJ - 1978. 소수 찾기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1978/Main.java)
+- [x] [BOJ - 1929. 소수 구하기](https://github.com/suhyunsim/Algorithm_Practice/issues/46)
+- [x] [BOJ - 1929. 골드바흐의 추측](https://github.com/suhyunsim/Algorithm_Practice/issues/47)
+
 
 ## 브루트포스
 - [x] [BOJ - 2798. 블랙잭](https://github.com/suhyunsim/Algorithm_Practice/issues/11)
