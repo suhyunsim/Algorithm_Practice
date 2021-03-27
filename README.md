@@ -38,7 +38,7 @@ Closed #24
 - [x] [BOJ - 2609. 최대공약수와 최소공배수](https://github.com/suhyunsim/Algorithm_Practice/issues/45)
 - [x] [BOJ - 1978. 소수 찾기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1978/Main.java)
 - [x] [BOJ - 1929. 소수 구하기](https://github.com/suhyunsim/Algorithm_Practice/issues/46)
-- [x] [BOJ - 1929. 골드바흐의 추측](https://github.com/suhyunsim/Algorithm_Practice/issues/47)
+- [x] [BOJ - 6588. 골드바흐의 추측](https://github.com/suhyunsim/Algorithm_Practice/issues/47)
 
 
 ## 브루트포스
