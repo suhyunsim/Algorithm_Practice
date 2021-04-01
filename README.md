@@ -55,7 +55,7 @@ Closed #24
 - [x] [BOJ - 2750. 수 정렬하기](https://github.com/suhyunsim/Algorithm_Practice/issues/12)
 - [x] [BOJ - 1427. 소트 인사이드](https://github.com/suhyunsim/Algorithm_Practice/issues/13)
 
-### 스택
+## 스택
 - [ ] [BOJ - 1406. 에디터](https://github.com/suhyunsim/Algorithm_Practice/issues/16)
 - [x] [BOJ - 10828. 스택](https://github.com/suhyunsim/Algorithm_Practice/issues/20)
 - [x] [BOJ - 10773. 제로](https://github.com/suhyunsim/Algorithm_Practice/issues/21)
@@ -68,7 +68,7 @@ Closed #24
 - [ ] [BOJ - 2504. 괄호의 값](https://github.com/suhyunsim/Algorithm_Practice/issues/36)
 
 
-### 큐, 덱
+## 큐, 덱
 - [x] [BOJ - 5397. 키로거](https://github.com/suhyunsim/Algorithm_Practice/issues/17)
 - [x] [BOJ - 1158. 요세푸스 문제](https://github.com/suhyunsim/Algorithm_Practice/issues/18)
 - [x] [BOJ - 11866. 요세푸스 문제 0](https://github.com/suhyunsim/Algorithm_Practice/issues/34)
