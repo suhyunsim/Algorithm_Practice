@@ -1,15 +1,14 @@
 package main.java.com.poogle.BOJ.Q3085;
 
-import java.io.*;
+import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        int n = Integer.parseInt(br.readLine());
-        String[][] candies = new String[n][n];
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        char[][] candies = new char[n][n];
         for (int i = 0; i < n; i++) {
-            candies[i] = br.readLine().split("");
+            candies[i] = sc.next().toCharArray();
         }
         int ans = 0;
         for (int i = 0; i < n; i++) {
@@ -17,53 +16,54 @@ public class Main {
                 //행 확인
                 if (j + 1 < n) {
                     //Swap
-                    String swap = candies[i][j];
+                    char t = candies[i][j];
                     candies[i][j] = candies[i][j + 1];
-                    candies[i][j + 1] = swap;
+                    candies[i][j + 1] = t;
                     //몇 개인지 세기
-                    int tmp = check(candies);
+                    int tmp = check(candies, i, i, j, j + 1);
                     if (ans < tmp) ans = tmp;
                     //돌려놓기
-                    swap = candies[i][j];
+                    t = candies[i][j];
                     candies[i][j] = candies[i][j + 1];
-                    candies[i][j + 1] = swap;
+                    candies[i][j + 1] = t;
                 }
                 //열 확인
                 if (i + 1 < n) {
-                    String a = candies[i][j];
+                    char t = candies[i][j];
                     candies[i][j] = candies[i + 1][j];
-                    candies[i + 1][j] = a;
+                    candies[i + 1][j] = t;
                     //몇 개인지 세기
-                    int tmp = check(candies);
+                    int tmp = check(candies, i, i + 1, j, j);
                     if (ans < tmp) ans = tmp;
                     //돌려놓기
-                    a = candies[i][j];
+                    t = candies[i][j];
                     candies[i][j] = candies[i + 1][j];
-                    candies[i + 1][j] = a;
+                    candies[i + 1][j] = t;
                 }
             }
         }
-        bw.write(String.valueOf(ans));
-        bw.flush();
-        br.close();
+        System.out.println(ans);
     }
 
-    private static int check(String[][] candies) {
+    //start, end, row, column
+    private static int check(char[][] candies, int sr, int er, int sc, int ec) {
         int n = candies.length;
         int ans = 1;
-        for (int i = 0; i < n; i++) {
+        for (int i = sr; i <= er; i++) {
             int cnt = 1;
             for (int j = 1; j < n; j++) {
-                if (candies[i][j].equals(candies[i][j - 1])) {
+                if (candies[i][j] == candies[i][j - 1]) {
                     cnt += 1;
                 } else {
                     cnt = 1;
                 }
                 if (ans < cnt) ans = cnt;
             }
-            cnt = 1;
+        }
+        for (int i = sc; i <= ec; i++) {
+            int cnt = 1;
             for (int j = 1; j < n; j++) {
-                if (candies[j][i].equals(candies[j - 1][i])) {
+                if (candies[j][i] == candies[j - 1][i]) {
                     cnt += 1;
                 } else {
                     cnt = 1;
