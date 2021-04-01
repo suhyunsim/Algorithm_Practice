@@ -46,6 +46,9 @@ Closed #24
 - [x] [BOJ - 7568. 덩치](https://github.com/suhyunsim/Algorithm_Practice/issues/19)
 - [x] [BOJ - 2309. 일곱 난쟁이](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q2309/Main.java)
 - [x] [BOJ - 3085. 사탕 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/48)
+- [x] [BOJ - 1476. 날짜 계산](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1476/Main.java)
+- [ ] [BOJ - 1107. 리모컨](https://github.com/suhyunsim/Algorithm_Practice/issues/49)
+
 
 ## 정렬
 - [ ] [BOJ - 3273. 두 수의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/9)
