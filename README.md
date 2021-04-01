@@ -44,7 +44,8 @@ Closed #24
 ## 브루트포스
 - [x] [BOJ - 2798. 블랙잭](https://github.com/suhyunsim/Algorithm_Practice/issues/11)
 - [x] [BOJ - 7568. 덩치](https://github.com/suhyunsim/Algorithm_Practice/issues/19)
-
+- [x] [BOJ - 2309. 일곱 난쟁이](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q2309/Main.java)
+- [x] [BOJ - 3085. 사탕 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/48)
 
 ## 정렬
 - [ ] [BOJ - 3273. 두 수의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/9)
