@@ -44,7 +44,7 @@ public class Main {
                     for (int l = 0; l < 3; l++) {
                         int x = i + block[k][l][0];
                         int y = i + block[k][l][1];
-                        if (0 <= x && x < n && 0 <= y && y <= m) {
+                        if (0 <= x && x < n && 0 <= y && y < m) {
                             sum += a[x][y];
                         } else {
                             ok = false;
