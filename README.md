@@ -48,6 +48,9 @@ Closed #24
 - [x] [BOJ - 3085. 사탕 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/48)
 - [x] [BOJ - 1476. 날짜 계산](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1476/Main.java)
 - [ ] [BOJ - 1107. 리모컨](https://github.com/suhyunsim/Algorithm_Practice/issues/49)
+- [ ] [BOJ - 14500. 테트로미노](https://github.com/suhyunsim/Algorithm_Practice/issues/50)
+- [x] [BOJ - 6064. 카잉 달력](https://github.com/suhyunsim/Algorithm_Practice/issues/51)
+- [x] [BOJ - 1784. 수 이어쓰기 1](https://github.com/suhyunsim/Algorithm_Practice/issues/52)
 
 
 ## 정렬
