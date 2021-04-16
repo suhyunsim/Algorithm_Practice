@@ -39,6 +39,7 @@ Closed #24
 - [x] [BOJ - 1978. 소수 찾기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1978/Main.java)
 - [x] [BOJ - 1929. 소수 구하기](https://github.com/suhyunsim/Algorithm_Practice/issues/46)
 - [x] [BOJ - 6588. 골드바흐의 추측](https://github.com/suhyunsim/Algorithm_Practice/issues/47)
+- [x] [PG - 음양 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/53)
 
 
 ## 브루트포스
@@ -69,6 +70,8 @@ Closed #24
 - [x] [BOJ - 9012. 괄호](https://github.com/suhyunsim/Algorithm_Practice/issues/31)
 - [ ] [BOJ - 10799. 쇠막대기](https://github.com/suhyunsim/Algorithm_Practice/issues/35)
 - [ ] [BOJ - 2504. 괄호의 값](https://github.com/suhyunsim/Algorithm_Practice/issues/36)
+- [x] [PG - 괄호 회전하기](https://github.com/suhyunsim/Algorithm_Practice/issues/54)
+
 
 
 ## 큐, 덱
