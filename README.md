@@ -41,7 +41,6 @@ Closed #24
 - [x] [BOJ - 6588. 골드바흐의 추측](https://github.com/suhyunsim/Algorithm_Practice/issues/47)
 - [x] [PG - 음양 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/53)
 
-
 ## 브루트포스
 - [x] [BOJ - 2798. 블랙잭](https://github.com/suhyunsim/Algorithm_Practice/issues/11)
 - [x] [BOJ - 7568. 덩치](https://github.com/suhyunsim/Algorithm_Practice/issues/19)
@@ -52,6 +51,8 @@ Closed #24
 - [ ] [BOJ - 14500. 테트로미노](https://github.com/suhyunsim/Algorithm_Practice/issues/50)
 - [x] [BOJ - 6064. 카잉 달력](https://github.com/suhyunsim/Algorithm_Practice/issues/51)
 - [x] [BOJ - 1784. 수 이어쓰기 1](https://github.com/suhyunsim/Algorithm_Practice/issues/52)
+- [x] [BOJ - N과 M(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/55)
+- [x] [BOJ - N과 M(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/56)
 
 
 ## 정렬
