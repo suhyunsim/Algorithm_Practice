@@ -40,6 +40,9 @@ Closed #24
 - [x] [BOJ - 1929. 소수 구하기](https://github.com/suhyunsim/Algorithm_Practice/issues/46)
 - [x] [BOJ - 6588. 골드바흐의 추측](https://github.com/suhyunsim/Algorithm_Practice/issues/47)
 - [x] [PG - 음양 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/53)
+- [x] [PG - 로또의 최고 순위와 최저 순위](https://github.com/suhyunsim/Algorithm_Practice/issues/61)
+- [x] [PG - 키패드](https://github.com/suhyunsim/Algorithm_Practice/issues/64)
+
 
 ## 브루트포스
 - [x] [BOJ - 2798. 블랙잭](https://github.com/suhyunsim/Algorithm_Practice/issues/11)
