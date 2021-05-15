@@ -42,6 +42,7 @@ Closed #24
 - [x] [PG - 음양 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/53)
 - [x] [PG - 로또의 최고 순위와 최저 순위](https://github.com/suhyunsim/Algorithm_Practice/issues/61)
 - [x] [PG - 키패드](https://github.com/suhyunsim/Algorithm_Practice/issues/64)
+- [x] [PG - 약수의 개수와 덧셈](https://github.com/suhyunsim/Algorithm_Practice/issues/66)
 
 
 ## 브루트포스
