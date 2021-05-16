@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     static int[] a = new int[10];
 /* 순서로 풀이
+    //index번 째에 올 수 있는 수의 범위의 시작: start
     static void go(int index, int start, int n, int m) {
         if (index == m) {
             for (int i = 0; i < m; i++) {
