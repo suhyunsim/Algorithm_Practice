@@ -90,3 +90,13 @@ Closed #24
 - [x] [BOJ - 10866. 덱](https://github.com/suhyunsim/Algorithm_Practice/issues/28)
 - [ ] [BOJ - 1021. 회전하는 큐](https://github.com/suhyunsim/Algorithm_Practice/issues/29)
 - [ ] [BOJ - 5430. AC](https://github.com/suhyunsim/Algorithm_Practice/issues/30)
+
+## 백트래킹
+- [x] [BOJ - 15649. N과 M(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/55)
+- [x] [BOJ - 15650. N과 M(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/56)
+- [x] [BOJ - 15651. N과 M(3)](https://github.com/suhyunsim/Algorithm_Practice/issues/57)
+- [x] [BOJ - 15652. N과 M(4)](https://github.com/suhyunsim/Algorithm_Practice/issues/58)
+- [x] [BOJ - 15654. N과 M(5)](https://github.com/suhyunsim/Algorithm_Practice/issues/59)
+- [x] [BOJ - 15655. N과 M(6)](https://github.com/suhyunsim/Algorithm_Practice/issues/60)
+- [x] [BOJ - 15656. N과 M(7)](https://github.com/suhyunsim/Algorithm_Practice/issues/68)
+- [x] [BOJ - 15657. N과 M(8)](https://github.com/suhyunsim/Algorithm_Practice/issues/69)
