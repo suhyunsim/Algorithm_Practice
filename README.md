@@ -100,3 +100,4 @@ Closed #24
 - [x] [BOJ - 15655. N과 M(6)](https://github.com/suhyunsim/Algorithm_Practice/issues/60)
 - [x] [BOJ - 15656. N과 M(7)](https://github.com/suhyunsim/Algorithm_Practice/issues/68)
 - [x] [BOJ - 15657. N과 M(8)](https://github.com/suhyunsim/Algorithm_Practice/issues/69)
+- [ ] [BOJ - 18290. NM과 K(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/70)
