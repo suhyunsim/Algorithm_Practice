@@ -101,3 +101,8 @@ Closed #24
 - [x] [BOJ - 15656. N과 M(7)](https://github.com/suhyunsim/Algorithm_Practice/issues/68)
 - [x] [BOJ - 15657. N과 M(8)](https://github.com/suhyunsim/Algorithm_Practice/issues/69)
 - [ ] [BOJ - 18290. NM과 K(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/70)
+
+## 재귀
+- [x] [BOJ - 9095. 1, 2, 3 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/71)
+- [x] [BOJ - 1759. 암호 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/72)
+- [x] [BOJ - 14501. 퇴사](https://github.com/suhyunsim/Algorithm_Practice/issues/73)
