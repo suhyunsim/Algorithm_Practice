@@ -101,6 +101,8 @@ Closed #24
 - [x] [BOJ - 15656. N과 M(7)](https://github.com/suhyunsim/Algorithm_Practice/issues/68)
 - [x] [BOJ - 15657. N과 M(8)](https://github.com/suhyunsim/Algorithm_Practice/issues/69)
 - [ ] [BOJ - 18290. NM과 K(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/70)
+- [ ] [BOJ - 14889. 스타트와 링크](https://github.com/suhyunsim/Algorithm_Practice/issues/74)
+- [x] [BOJ - 15661. 링크와 스타트](https://github.com/suhyunsim/Algorithm_Practice/issues/75)
 
 ## 재귀
 - [x] [BOJ - 9095. 1, 2, 3 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/71)
