@@ -16,7 +16,7 @@ public class Main {
             for (int i = 0; i < first.size(); i++) {
                 for (int j = 0; j < first.size(); j++) {
                     if (i == j) continue;
-                    t1 += s[first.get(i)][first.get(i)];
+                    t1 += s[first.get(i)][first.get(j)];
                 }
             }
             for (int i = 0; i < second.size(); i++) {
@@ -25,8 +25,7 @@ public class Main {
                     t2 += s[second.get(i)][second.get(j)];
                 }
             }
-            int diff = Math.abs(t1 - t2);
-            return diff;
+            return Math.abs(t1 - t2);
         }
         int ans = -1;
         first.add(index);
@@ -57,6 +56,5 @@ public class Main {
         ArrayList<Integer> first = new ArrayList<>();
         ArrayList<Integer> second = new ArrayList<>();
         System.out.println(go(0, first, second));
-
     }
 }
