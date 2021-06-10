@@ -49,8 +49,6 @@ Closed #24
 - [x] [BOJ - 10974. 모든 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/80)
 - [x] [BOJ - 10819. 차이를 최대로](https://github.com/suhyunsim/Algorithm_Practice/issues/81)
 
-
-
 ## 브루트포스
 - [x] [BOJ - 2798. 블랙잭](https://github.com/suhyunsim/Algorithm_Practice/issues/11)
 - [x] [BOJ - 7568. 덩치](https://github.com/suhyunsim/Algorithm_Practice/issues/19)
@@ -63,6 +61,7 @@ Closed #24
 - [x] [BOJ - 1784. 수 이어쓰기 1](https://github.com/suhyunsim/Algorithm_Practice/issues/52)
 - [x] [BOJ - N과 M(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/55)
 - [x] [BOJ - N과 M(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/56)
+- [x] [BOJ - 외판원 순회 2](https://github.com/suhyunsim/Algorithm_Practice/issues/82)
 
 
 ## 정렬
@@ -115,3 +114,4 @@ Closed #24
 - [x] [BOJ - 9095. 1, 2, 3 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/71)
 - [x] [BOJ - 1759. 암호 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/72)
 - [x] [BOJ - 14501. 퇴사](https://github.com/suhyunsim/Algorithm_Practice/issues/73)
+- [ ] [BOJ - 6603. 로또](https://github.com/suhyunsim/Algorithm_Practice/issues/83)
