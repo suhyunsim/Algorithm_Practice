@@ -45,8 +45,9 @@ Closed #24
 - [x] [PG - 약수의 개수와 덧셈](https://github.com/suhyunsim/Algorithm_Practice/issues/66)
 - [ ] [PG - 2개 이하로 다른 비트](https://github.com/suhyunsim/Algorithm_Practice/issues/67)
 - [ ] [BOJ - 10972. 다음 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/78)
-- [x] [BOJ - 10972. 이전 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/79)
-- [x] [BOJ - 10972. 모든 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/80)
+- [x] [BOJ - 10973. 이전 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/79)
+- [x] [BOJ - 10974. 모든 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/80)
+- [x] [BOJ - 10819. 차이를 최대로](https://github.com/suhyunsim/Algorithm_Practice/issues/81)
 
 
 
