@@ -64,6 +64,7 @@ Closed #24
 - [x] [BOJ - 10971. 외판원 순회 2](https://github.com/suhyunsim/Algorithm_Practice/issues/82)
 - [x] [PG - 내적](https://github.com/suhyunsim/Algorithm_Practice/issues/87)
 - [x] [PG - 모의고사](https://github.com/suhyunsim/Algorithm_Practice/issues/88)
+- [x] [PG - 폰켓몬](https://github.com/suhyunsim/Algorithm_Practice/issues/89)
 
 
 ## 정렬
