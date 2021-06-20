@@ -59,15 +59,18 @@ Closed #24
 - [ ] [BOJ - 14500. 테트로미노](https://github.com/suhyunsim/Algorithm_Practice/issues/50)
 - [x] [BOJ - 6064. 카잉 달력](https://github.com/suhyunsim/Algorithm_Practice/issues/51)
 - [x] [BOJ - 1784. 수 이어쓰기 1](https://github.com/suhyunsim/Algorithm_Practice/issues/52)
-- [x] [BOJ - N과 M(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/55)
-- [x] [BOJ - N과 M(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/56)
-- [x] [BOJ - 외판원 순회 2](https://github.com/suhyunsim/Algorithm_Practice/issues/82)
+- [x] [BOJ - 15649. N과 M(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/55)
+- [x] [BOJ - 15650. N과 M(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/56)
+- [x] [BOJ - 10971. 외판원 순회 2](https://github.com/suhyunsim/Algorithm_Practice/issues/82)
+- [x] [PG - 내적](https://github.com/suhyunsim/Algorithm_Practice/issues/87)
 
 
 ## 정렬
 - [ ] [BOJ - 3273. 두 수의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/9)
 - [x] [BOJ - 2750. 수 정렬하기](https://github.com/suhyunsim/Algorithm_Practice/issues/12)
 - [x] [BOJ - 1427. 소트 인사이드](https://github.com/suhyunsim/Algorithm_Practice/issues/13)
+- [x] [PG - K번째수](https://github.com/suhyunsim/Algorithm_Practice/issues/86)
+
 
 ## 스택
 - [ ] [BOJ - 1406. 에디터](https://github.com/suhyunsim/Algorithm_Practice/issues/16)
