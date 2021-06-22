@@ -48,6 +48,8 @@ Closed #24
 - [x] [BOJ - 10973. 이전 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/79)
 - [x] [BOJ - 10974. 모든 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/80)
 - [x] [BOJ - 10819. 차이를 최대로](https://github.com/suhyunsim/Algorithm_Practice/issues/81)
+- [x] [PG - 신규 아이디 추천](https://github.com/suhyunsim/Algorithm_Practice/issues/91)
+
 
 ## 브루트포스
 - [x] [BOJ - 2798. 블랙잭](https://github.com/suhyunsim/Algorithm_Practice/issues/11)
@@ -86,7 +88,7 @@ Closed #24
 - [ ] [BOJ - 10799. 쇠막대기](https://github.com/suhyunsim/Algorithm_Practice/issues/35)
 - [ ] [BOJ - 2504. 괄호의 값](https://github.com/suhyunsim/Algorithm_Practice/issues/36)
 - [x] [PG - 괄호 회전하기](https://github.com/suhyunsim/Algorithm_Practice/issues/54)
-
+- [ ] [PG - 크레인 인형뽑기 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/90)
 
 
 ## 큐, 덱
