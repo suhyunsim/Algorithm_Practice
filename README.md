@@ -49,6 +49,9 @@ Closed #24
 - [x] [BOJ - 10974. 모든 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/80)
 - [x] [BOJ - 10819. 차이를 최대로](https://github.com/suhyunsim/Algorithm_Practice/issues/81)
 - [x] [PG - 신규 아이디 추천](https://github.com/suhyunsim/Algorithm_Practice/issues/91)
+- [x] [PG - 시저 암호](https://github.com/suhyunsim/Algorithm_Practice/issues/92)
+- [x] [PG - 문자열 다루기 기본](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12918/Solution.java)
+- [x] [PG - 정수 내림차순으로 배치하기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12933/Solution.java)
 
 
 ## 브루트포스
