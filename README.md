@@ -131,3 +131,6 @@ Closed #24
 - [x] [BOJ - 1759. 암호 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/72)
 - [x] [BOJ - 14501. 퇴사](https://github.com/suhyunsim/Algorithm_Practice/issues/73)
 - [ ] [BOJ - 6603. 로또](https://github.com/suhyunsim/Algorithm_Practice/issues/83)
+
+## 탐욕
+- [x] [PG - 체육복](https://github.com/suhyunsim/Algorithm_Practice/issues/95)
