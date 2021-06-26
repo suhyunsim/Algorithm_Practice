@@ -52,6 +52,12 @@ Closed #24
 - [x] [PG - 시저 암호](https://github.com/suhyunsim/Algorithm_Practice/issues/92)
 - [x] [PG - 문자열 다루기 기본](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12918/Solution.java)
 - [x] [PG - 정수 내림차순으로 배치하기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12933/Solution.java)
+- [x] [PG - 정수 제곱근 판별](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12934/Solution.java)
+- [x] [PG - 이상한 문자 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12930/Solution.java)
+- [ ] [PG - 2016년](https://github.com/suhyunsim/Algorithm_Practice/issues/93)
+- [x] [PG - 이상한 문자 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12930/Solution.java)
+- [x] [PG - 같은 숫자는 싫어](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12906/Solution.java)
+- [x] [PG - 문자열 내 마음대로 정렬하기](https://github.com/suhyunsim/Algorithm_Practice/issues/94)
 
 
 ## 브루트포스
