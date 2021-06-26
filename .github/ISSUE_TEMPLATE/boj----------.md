@@ -1,6 +1,6 @@
 ---
-name: 문제 풀이 템플릿
-about: 알고리즘 문제 풀이 코드 업로드
+name: BOJ 문제 풀이 템플릿
+about: BOJ
 title: 21.02.09 - [BOJ] 10871. X보다 작은 수
 labels: ''
 assignees: suhyunsim
