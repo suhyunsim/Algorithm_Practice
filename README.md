@@ -60,7 +60,8 @@ Closed #24
 - [x] [PG - 이상한 문자 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12930/Solution.java)
 - [x] [PG - 같은 숫자는 싫어](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12906/Solution.java)
 - [x] [PG - 문자열 내 마음대로 정렬하기](https://github.com/suhyunsim/Algorithm_Practice/issues/94)
-- [ ] [PG - 비밀 지도](https://github.com/suhyunsim/Algorithm_Practice/issues/97)
+- [ ] [PG - 비밀지도](https://github.com/suhyunsim/Algorithm_Practice/issues/97)
+- [ ] [PG - 다트 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/98)
 
 
 ## 브루트포스
