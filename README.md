@@ -48,6 +48,8 @@ Closed #24
 - [x] [BOJ - 10973. 이전 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/79)
 - [x] [BOJ - 10974. 모든 순열](https://github.com/suhyunsim/Algorithm_Practice/issues/80)
 - [x] [BOJ - 10819. 차이를 최대로](https://github.com/suhyunsim/Algorithm_Practice/issues/81)
+- [x] [PG - 내적](https://github.com/suhyunsim/Algorithm_Practice/issues/87)
+- [x] [PG - 폰켓몬](https://github.com/suhyunsim/Algorithm_Practice/issues/89)
 - [x] [PG - 신규 아이디 추천](https://github.com/suhyunsim/Algorithm_Practice/issues/91)
 - [x] [PG - 시저 암호](https://github.com/suhyunsim/Algorithm_Practice/issues/92)
 - [x] [PG - 문자열 다루기 기본](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12918/Solution.java)
@@ -58,6 +60,7 @@ Closed #24
 - [x] [PG - 이상한 문자 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12930/Solution.java)
 - [x] [PG - 같은 숫자는 싫어](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12906/Solution.java)
 - [x] [PG - 문자열 내 마음대로 정렬하기](https://github.com/suhyunsim/Algorithm_Practice/issues/94)
+- [ ] [PG - 비밀 지도](https://github.com/suhyunsim/Algorithm_Practice/issues/97)
 
 
 ## 브루트포스
@@ -73,9 +76,6 @@ Closed #24
 - [x] [BOJ - 15649. N과 M(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/55)
 - [x] [BOJ - 15650. N과 M(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/56)
 - [x] [BOJ - 10971. 외판원 순회 2](https://github.com/suhyunsim/Algorithm_Practice/issues/82)
-- [x] [PG - 내적](https://github.com/suhyunsim/Algorithm_Practice/issues/87)
-- [x] [PG - 모의고사](https://github.com/suhyunsim/Algorithm_Practice/issues/88)
-- [x] [PG - 폰켓몬](https://github.com/suhyunsim/Algorithm_Practice/issues/89)
 
 
 ## 정렬
@@ -83,6 +83,7 @@ Closed #24
 - [x] [BOJ - 2750. 수 정렬하기](https://github.com/suhyunsim/Algorithm_Practice/issues/12)
 - [x] [BOJ - 1427. 소트 인사이드](https://github.com/suhyunsim/Algorithm_Practice/issues/13)
 - [x] [PG - K번째수](https://github.com/suhyunsim/Algorithm_Practice/issues/86)
+- [x] [PG - 실패율](https://github.com/suhyunsim/Algorithm_Practice/issues/96)
 
 
 ## 스택
@@ -110,6 +111,8 @@ Closed #24
 - [x] [BOJ - 10866. 덱](https://github.com/suhyunsim/Algorithm_Practice/issues/28)
 - [ ] [BOJ - 1021. 회전하는 큐](https://github.com/suhyunsim/Algorithm_Practice/issues/29)
 - [ ] [BOJ - 5430. AC](https://github.com/suhyunsim/Algorithm_Practice/issues/30)
+- [x] [PG - 모의고사](https://github.com/suhyunsim/Algorithm_Practice/issues/88)
+
 
 ## 백트래킹
 - [x] [BOJ - 15649. N과 M(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/55)
