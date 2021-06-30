@@ -62,6 +62,7 @@ Closed #24
 - [x] [PG - 문자열 내 마음대로 정렬하기](https://github.com/suhyunsim/Algorithm_Practice/issues/94)
 - [ ] [PG - 비밀지도](https://github.com/suhyunsim/Algorithm_Practice/issues/97)
 - [ ] [PG - 다트 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/98)
+- [x] [PG - N개의 최소공배수](https://github.com/suhyunsim/Algorithm_Practice/issues/99)
 
 
 ## 브루트포스
