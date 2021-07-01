@@ -63,6 +63,7 @@ Closed #24
 - [ ] [PG - 비밀지도](https://github.com/suhyunsim/Algorithm_Practice/issues/97)
 - [ ] [PG - 다트 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/98)
 - [x] [PG - N개의 최소공배수](https://github.com/suhyunsim/Algorithm_Practice/issues/99)
+- [ ] [PG - 124 나라의 숫자](https://github.com/suhyunsim/Algorithm_Practice/issues/100)
 
 
 ## 브루트포스
@@ -131,11 +132,17 @@ Closed #24
 - [x] [BOJ - 2529. 링크와 스타트](https://github.com/suhyunsim/Algorithm_Practice/issues/76)
 - [ ] [BOJ - 1248. 맞춰봐](https://github.com/suhyunsim/Algorithm_Practice/issues/77)
 
+
 ## 재귀
 - [x] [BOJ - 9095. 1, 2, 3 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/71)
 - [x] [BOJ - 1759. 암호 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/72)
 - [x] [BOJ - 14501. 퇴사](https://github.com/suhyunsim/Algorithm_Practice/issues/73)
 - [ ] [BOJ - 6603. 로또](https://github.com/suhyunsim/Algorithm_Practice/issues/83)
 
+
 ## 탐욕
 - [x] [PG - 체육복](https://github.com/suhyunsim/Algorithm_Practice/issues/95)
+
+
+## 힙
+- [ ] [PG - 더 맵게](https://github.com/suhyunsim/Algorithm_Practice/issues/101)
