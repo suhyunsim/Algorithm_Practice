@@ -115,6 +115,7 @@ Closed #24
 - [ ] [BOJ - 1021. 회전하는 큐](https://github.com/suhyunsim/Algorithm_Practice/issues/29)
 - [ ] [BOJ - 5430. AC](https://github.com/suhyunsim/Algorithm_Practice/issues/30)
 - [x] [PG - 모의고사](https://github.com/suhyunsim/Algorithm_Practice/issues/88)
+- [ ] [PG - 기능개발](https://github.com/suhyunsim/Algorithm_Practice/issues/101)
 
 
 ## 백트래킹
