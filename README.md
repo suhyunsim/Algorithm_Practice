@@ -65,6 +65,7 @@ Closed #24
 - [x] [PG - N개의 최소공배수](https://github.com/suhyunsim/Algorithm_Practice/issues/99)
 - [ ] [PG - 124 나라의 숫자](https://github.com/suhyunsim/Algorithm_Practice/issues/100)
 - [x] [PG - 전화번호 목록](https://github.com/suhyunsim/Algorithm_Practice/issues/103)
+- [x] [PG - JadenCase 문자열 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12951/Solution.java)
 
 
 ## 브루트포스
@@ -118,6 +119,7 @@ Closed #24
 - [ ] [BOJ - 5430. AC](https://github.com/suhyunsim/Algorithm_Practice/issues/30)
 - [x] [PG - 모의고사](https://github.com/suhyunsim/Algorithm_Practice/issues/88)
 - [ ] [PG - 기능개발](https://github.com/suhyunsim/Algorithm_Practice/issues/101)
+- [x] [PG - 행렬의 곱셈](https://github.com/suhyunsim/Algorithm_Practice/issues/105)
 
 
 ## 백트래킹
