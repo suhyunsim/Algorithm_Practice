@@ -64,6 +64,7 @@ Closed #24
 - [ ] [PG - 다트 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/98)
 - [x] [PG - N개의 최소공배수](https://github.com/suhyunsim/Algorithm_Practice/issues/99)
 - [ ] [PG - 124 나라의 숫자](https://github.com/suhyunsim/Algorithm_Practice/issues/100)
+- [x] [PG - 전화번호 목록](https://github.com/suhyunsim/Algorithm_Practice/issues/103)
 
 
 ## 브루트포스
@@ -87,6 +88,7 @@ Closed #24
 - [x] [BOJ - 1427. 소트 인사이드](https://github.com/suhyunsim/Algorithm_Practice/issues/13)
 - [x] [PG - K번째수](https://github.com/suhyunsim/Algorithm_Practice/issues/86)
 - [x] [PG - 실패율](https://github.com/suhyunsim/Algorithm_Practice/issues/96)
+- [ ] [PG - 가장 큰 수](https://github.com/suhyunsim/Algorithm_Practice/issues/104)
 
 
 ## 스택
