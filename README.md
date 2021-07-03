@@ -66,6 +66,7 @@ Closed #24
 - [ ] [PG - 124 나라의 숫자](https://github.com/suhyunsim/Algorithm_Practice/issues/100)
 - [x] [PG - 전화번호 목록](https://github.com/suhyunsim/Algorithm_Practice/issues/103)
 - [x] [PG - JadenCase 문자열 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12951/Solution.java)
+- [x] [PG - 피보나치 수](https://github.com/suhyunsim/Algorithm_Practice/issues/106)
 
 
 ## 브루트포스
@@ -105,6 +106,7 @@ Closed #24
 - [ ] [BOJ - 2504. 괄호의 값](https://github.com/suhyunsim/Algorithm_Practice/issues/36)
 - [x] [PG - 괄호 회전하기](https://github.com/suhyunsim/Algorithm_Practice/issues/54)
 - [ ] [PG - 크레인 인형뽑기 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/90)
+- [x] [PG - 주식 가격](https://github.com/suhyunsim/Algorithm_Practice/issues/107)
 
 
 ## 큐, 덱
