@@ -107,6 +107,7 @@ Closed #24
 - [x] [PG - 괄호 회전하기](https://github.com/suhyunsim/Algorithm_Practice/issues/54)
 - [ ] [PG - 크레인 인형뽑기 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/90)
 - [x] [PG - 주식 가격](https://github.com/suhyunsim/Algorithm_Practice/issues/107)
+- [ ] [PG - 큰 수 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/108)
 
 
 ## 큐, 덱
