@@ -64,9 +64,13 @@ Closed #24
 - [ ] [PG - 다트 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/98)
 - [x] [PG - N개의 최소공배수](https://github.com/suhyunsim/Algorithm_Practice/issues/99)
 - [ ] [PG - 124 나라의 숫자](https://github.com/suhyunsim/Algorithm_Practice/issues/100)
-- [x] [PG - 전화번호 목록](https://github.com/suhyunsim/Algorithm_Practice/issues/103)
 - [x] [PG - JadenCase 문자열 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12951/Solution.java)
 - [x] [PG - 피보나치 수](https://github.com/suhyunsim/Algorithm_Practice/issues/106)
+
+
+## 해시
+- [x] [PG - 전화번호 목록](https://github.com/suhyunsim/Algorithm_Practice/issues/103)
+- [x] [PG - 위장](https://github.com/suhyunsim/Algorithm_Practice/issues/109)
 
 
 ## 브루트포스
