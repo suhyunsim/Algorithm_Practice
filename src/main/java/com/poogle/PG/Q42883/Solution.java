@@ -1,22 +1,23 @@
 package main.java.com.poogle.PG.Q42883;
 
+import java.util.Stack;
+
 public class Solution {
     public static String solution(String number, int k) {
-        StringBuilder ans = new StringBuilder();
+        char[] result = new char[number.length() - k];
+        Stack<Character> stack = new Stack<>();
 
-        int idx = 0;
-        int comp = 0;
-        for (int i = 0; i < number.length() - k; i++) {
-            comp = 0;
-            for (int j = idx; j <= i + k; j++) {
-                if (comp < number.charAt(j) - '0') {
-                    comp = number.charAt(j) - '0';
-                    idx = j + 1;
-                }
+        for (int i = 0; i < number.length(); i++) {
+            char c = number.charAt(i);
+            while (!stack.isEmpty() && stack.peek() < c && k-- > 0) {
+                stack.pop();
             }
-            ans.append(comp);
+            stack.push(c);
         }
-        return ans.toString();
+        for (int i = 0; i < result.length; i++) {
+            result[i] = stack.get(i);
+        }
+        return new String(result);
     }
 
     public static void main(String[] args) {
