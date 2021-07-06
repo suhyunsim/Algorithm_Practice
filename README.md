@@ -154,7 +154,11 @@ Closed #24
 
 ## 탐욕
 - [x] [PG - 체육복](https://github.com/suhyunsim/Algorithm_Practice/issues/95)
+- [ ] [PG - 조이스틱](https://github.com/suhyunsim/Algorithm_Practice/issues/110)
 
 
 ## 힙
 - [ ] [PG - 더 맵게](https://github.com/suhyunsim/Algorithm_Practice/issues/101)
+
+## 다이나믹 프로그래밍
+- [ ] [BOJ - 1463. 1로 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/111)
