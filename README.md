@@ -65,7 +65,7 @@ Closed #24
 - [x] [PG - N개의 최소공배수](https://github.com/suhyunsim/Algorithm_Practice/issues/99)
 - [ ] [PG - 124 나라의 숫자](https://github.com/suhyunsim/Algorithm_Practice/issues/100)
 - [x] [PG - JadenCase 문자열 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12951/Solution.java)
-- [x] [PG - 피보나치 수](https://github.com/suhyunsim/Algorithm_Practice/issues/106)
+- [x] [PG - 다음 큰 수](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12911/Solution.java)
 
 
 ## 해시
@@ -154,6 +154,7 @@ Closed #24
 
 ## 탐욕
 - [x] [PG - 체육복](https://github.com/suhyunsim/Algorithm_Practice/issues/95)
+- [x] [PG - 피보나치 수](https://github.com/suhyunsim/Algorithm_Practice/issues/106)
 - [ ] [PG - 조이스틱](https://github.com/suhyunsim/Algorithm_Practice/issues/110)
 
 
@@ -161,4 +162,5 @@ Closed #24
 - [ ] [PG - 더 맵게](https://github.com/suhyunsim/Algorithm_Practice/issues/101)
 
 ## 다이나믹 프로그래밍
-- [ ] [BOJ - 1463. 1로 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/111)
+- [x] [BOJ - 1463. 1로 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/111)
+- [ ] [BOJ - 12913. 땅따먹기](https://github.com/suhyunsim/Algorithm_Practice/issues/112)
