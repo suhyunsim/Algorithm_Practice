@@ -112,7 +112,7 @@ Closed #24
 - [ ] [PG - 크레인 인형뽑기 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/90)
 - [x] [PG - 주식 가격](https://github.com/suhyunsim/Algorithm_Practice/issues/107)
 - [ ] [PG - 큰 수 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/108)
-
+- [x] [PG - 올바른 괄호](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12909/Solution.java)
 
 ## 큐, 덱
 - [x] [BOJ - 5397. 키로거](https://github.com/suhyunsim/Algorithm_Practice/issues/17)
