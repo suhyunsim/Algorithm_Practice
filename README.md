@@ -86,6 +86,7 @@ Closed #24
 - [x] [BOJ - 15649. N과 M(1)](https://github.com/suhyunsim/Algorithm_Practice/issues/55)
 - [x] [BOJ - 15650. N과 M(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/56)
 - [x] [BOJ - 10971. 외판원 순회 2](https://github.com/suhyunsim/Algorithm_Practice/issues/82)
+- [ ] [BOJ - 소수 찾기](https://github.com/suhyunsim/Algorithm_Practice/issues/116)
 
 
 ## 정렬
