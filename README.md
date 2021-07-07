@@ -156,6 +156,7 @@ Closed #24
 - [x] [PG - 체육복](https://github.com/suhyunsim/Algorithm_Practice/issues/95)
 - [x] [PG - 피보나치 수](https://github.com/suhyunsim/Algorithm_Practice/issues/106)
 - [ ] [PG - 조이스틱](https://github.com/suhyunsim/Algorithm_Practice/issues/110)
+- [x] [PG - 구명보트](https://github.com/suhyunsim/Algorithm_Practice/issues/114)
 
 
 ## 힙
