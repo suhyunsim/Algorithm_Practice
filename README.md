@@ -129,6 +129,7 @@ Closed #24
 - [ ] [PG - 기능개발](https://github.com/suhyunsim/Algorithm_Practice/issues/101)
 - [x] [PG - 행렬의 곱셈](https://github.com/suhyunsim/Algorithm_Practice/issues/105)
 - [x] [PG - 다리를 지나는 트럭](https://github.com/suhyunsim/Algorithm_Practice/issues/115)
+- [x] [PG - 프린터](https://github.com/suhyunsim/Algorithm_Practice/issues/117)
 
 
 ## 백트래킹
