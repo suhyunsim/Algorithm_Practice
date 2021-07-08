@@ -87,6 +87,7 @@ Closed #24
 - [x] [BOJ - 15650. N과 M(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/56)
 - [x] [BOJ - 10971. 외판원 순회 2](https://github.com/suhyunsim/Algorithm_Practice/issues/82)
 - [ ] [BOJ - 소수 찾기](https://github.com/suhyunsim/Algorithm_Practice/issues/116)
+- [x] [PG - 카펫](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q42842/Solution.java)
 
 
 ## 정렬
