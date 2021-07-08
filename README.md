@@ -154,6 +154,7 @@ Closed #24
 - [x] [BOJ - 1759. 암호 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/72)
 - [x] [BOJ - 14501. 퇴사](https://github.com/suhyunsim/Algorithm_Practice/issues/73)
 - [ ] [BOJ - 6603. 로또](https://github.com/suhyunsim/Algorithm_Practice/issues/83)
+- [ ] [PG - 타겟 넘버](https://github.com/suhyunsim/Algorithm_Practice/issues/121)
 
 
 ## 탐욕
@@ -170,3 +171,8 @@ Closed #24
 - [x] [BOJ - 1463. 1로 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/111)
 - [ ] [BOJ - 12913. 땅따먹기](https://github.com/suhyunsim/Algorithm_Practice/issues/112)
 - [ ] [BOJ - 12903. 가장 큰 정사각형 찾기](https://github.com/suhyunsim/Algorithm_Practice/issues/113)
+
+
+## BFS
+- [ ] [BOJ - 1697. 숨바꼭질](https://github.com/suhyunsim/Algorithm_Practice/issues/119)
+- [ ] [BOJ - 1926. 그림](https://github.com/suhyunsim/Algorithm_Practice/issues/120)
