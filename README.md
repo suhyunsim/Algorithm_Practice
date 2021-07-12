@@ -177,3 +177,4 @@ Closed #24
 - [ ] [BOJ - 1697. 숨바꼭질](https://github.com/suhyunsim/Algorithm_Practice/issues/119)
 - [ ] [BOJ - 1926. 그림](https://github.com/suhyunsim/Algorithm_Practice/issues/120)
 - [x] [BOJ - 2178. 미로탐색](https://github.com/suhyunsim/Algorithm_Practice/issues/39)
+- [ ] [BOJ - 7576. 토마토](https://github.com/suhyunsim/Algorithm_Practice/issues/122)
