@@ -171,6 +171,8 @@ Closed #24
 - [x] [BOJ - 1463. 1로 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/111)
 - [ ] [BOJ - 12913. 땅따먹기](https://github.com/suhyunsim/Algorithm_Practice/issues/112)
 - [ ] [BOJ - 12903. 가장 큰 정사각형 찾기](https://github.com/suhyunsim/Algorithm_Practice/issues/113)
+- [x] [BOJ - 11726. 2 x n 타일링](https://github.com/suhyunsim/Algorithm_Practice/issues/123)
+- [x] [BOJ - 11727. 2 x n 타일링 2](https://github.com/suhyunsim/Algorithm_Practice/issues/124)
 
 
 ## BFS
