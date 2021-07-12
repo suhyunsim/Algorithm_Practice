@@ -173,6 +173,8 @@ Closed #24
 - [ ] [BOJ - 12903. 가장 큰 정사각형 찾기](https://github.com/suhyunsim/Algorithm_Practice/issues/113)
 - [x] [BOJ - 11726. 2 x n 타일링](https://github.com/suhyunsim/Algorithm_Practice/issues/123)
 - [x] [BOJ - 11727. 2 x n 타일링 2](https://github.com/suhyunsim/Algorithm_Practice/issues/124)
+- [x] [BOJ - 11052. 카드 구매하기](https://github.com/suhyunsim/Algorithm_Practice/issues/125)
+- [x] [BOJ - 16194. 카드 구매하기 2](https://github.com/suhyunsim/Algorithm_Practice/issues/126)
 
 
 ## BFS
