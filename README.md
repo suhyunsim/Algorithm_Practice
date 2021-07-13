@@ -175,6 +175,9 @@ Closed #24
 - [x] [BOJ - 11727. 2 x n 타일링 2](https://github.com/suhyunsim/Algorithm_Practice/issues/124)
 - [x] [BOJ - 11052. 카드 구매하기](https://github.com/suhyunsim/Algorithm_Practice/issues/125)
 - [x] [BOJ - 16194. 카드 구매하기 2](https://github.com/suhyunsim/Algorithm_Practice/issues/126)
+- [x] [BOJ - 15990. 1, 2, 3 더하기 5](https://github.com/suhyunsim/Algorithm_Practice/issues/127)
+- [ ] [BOJ - 10844. 쉬운 계단 수](https://github.com/suhyunsim/Algorithm_Practice/issues/128)
+- [x] [BOJ - 2193. 이친수](https://github.com/suhyunsim/Algorithm_Practice/issues/129)
 
 
 ## BFS
