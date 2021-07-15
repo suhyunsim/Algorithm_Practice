@@ -178,6 +178,7 @@ Closed #24
 - [x] [BOJ - 15990. 1, 2, 3 더하기 5](https://github.com/suhyunsim/Algorithm_Practice/issues/127)
 - [ ] [BOJ - 10844. 쉬운 계단 수](https://github.com/suhyunsim/Algorithm_Practice/issues/128)
 - [x] [BOJ - 2193. 이친수](https://github.com/suhyunsim/Algorithm_Practice/issues/129)
+- [x] [BOJ - 11053. 가장 긴 증가하는 부분 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/130)
 
 
 ## BFS
