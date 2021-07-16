@@ -180,6 +180,9 @@ Closed #24
 - [x] [BOJ - 2193. 이친수](https://github.com/suhyunsim/Algorithm_Practice/issues/129)
 - [x] [BOJ - 11053. 가장 긴 증가하는 부분 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/130)
 - [x] [BOJ - 14002. 가장 긴 증가하는 부분 수열 4](https://github.com/suhyunsim/Algorithm_Practice/issues/131)
+- [x] [BOJ - 1912. 연속합](https://github.com/suhyunsim/Algorithm_Practice/issues/132)
+- [x] [BOJ - 1699. 제곱수의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/133)
+- [ ] [BOJ - 2225. 합분해](https://github.com/suhyunsim/Algorithm_Practice/issues/134)
 
 
 ## BFS
