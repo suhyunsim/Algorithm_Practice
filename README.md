@@ -183,6 +183,10 @@ Closed #24
 - [x] [BOJ - 1912. 연속합](https://github.com/suhyunsim/Algorithm_Practice/issues/132)
 - [x] [BOJ - 1699. 제곱수의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/133)
 - [ ] [BOJ - 2225. 합분해](https://github.com/suhyunsim/Algorithm_Practice/issues/134)
+- [x] [BOJ - 15988. 1, 2, 3 더하기 3](https://github.com/suhyunsim/Algorithm_Practice/issues/135)
+- [x] [BOJ - 1149. RGB 거리](https://github.com/suhyunsim/Algorithm_Practice/issues/136)
+- [x] [BOJ - 1309. 동물원](https://github.com/suhyunsim/Algorithm_Practice/issues/137)
+- [ ] [BOJ - 11057. 오르막 수](https://github.com/suhyunsim/Algorithm_Practice/issues/138)
 
 
 ## BFS
