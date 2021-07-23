@@ -187,6 +187,13 @@ Closed #24
 - [x] [BOJ - 1149. RGB 거리](https://github.com/suhyunsim/Algorithm_Practice/issues/136)
 - [x] [BOJ - 1309. 동물원](https://github.com/suhyunsim/Algorithm_Practice/issues/137)
 - [ ] [BOJ - 11057. 오르막 수](https://github.com/suhyunsim/Algorithm_Practice/issues/138)
+- [x] [BOJ - 2156. 포도주 시식](https://github.com/suhyunsim/Algorithm_Practice/issues/139)
+- [ ] [BOJ - 1932. 정수 삼각형](https://github.com/suhyunsim/Algorithm_Practice/issues/140)
+- [x] [BOJ - 11055. 가장 큰 증가하는 부분 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/141)
+- [x] [BOJ - 11722. 가장 긴 감소하는 부분 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/142)
+- [x] [BOJ - 11054. 가장 긴 바이토닉 부분 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/143)
+- [x] [BOJ - 13398. 연속합 2](https://github.com/suhyunsim/Algorithm_Practice/issues/144)
+- [ ] [BOJ - 2133. 타일 채우기](https://github.com/suhyunsim/Algorithm_Practice/issues/145)
 
 
 ## BFS
