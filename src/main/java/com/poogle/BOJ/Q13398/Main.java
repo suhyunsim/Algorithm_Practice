@@ -15,7 +15,7 @@ public class Main {
 
         for (int i = 0; i < n; i++) {
             dL[i] = a[i];
-            if (i > 0 && dL[i] > dL[i - 1] + a[i]) {
+            if (i > 0 && dL[i] < dL[i - 1] + a[i]) {
                 dL[i] = dL[i - 1] + a[i];
             }
         }
