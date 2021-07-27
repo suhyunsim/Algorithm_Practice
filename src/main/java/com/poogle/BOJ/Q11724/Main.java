@@ -9,7 +9,7 @@ public class Main {
         int n = sc.nextInt();
         int m = sc.nextInt();
         ArrayList<Integer>[] a = new ArrayList[n + 1];
-        for (int i = 1; i <= n; i ++) {
+        for (int i = 1; i <= n; i++) {
             a[i] = new ArrayList<>();
         }
         for (int i = 0; i < m; i++) {
@@ -21,7 +21,7 @@ public class Main {
         boolean[] check = new boolean[n + 1];
         int ans = 0;
         for (int i = 1; i <= n; i++) {
-            if (check[i] == false) {
+            if (!check[i]) {
                 dfs(a, check, i);
                 ans += 1;
             }
@@ -33,7 +33,7 @@ public class Main {
         if (check[x]) return;
         check[x] = true;
         for (int y : a[x]) {
-            if (check[y] == false) dfs(a, check, y);
+            if (!check[y]) dfs(a, check, y);
         }
     }
 }
