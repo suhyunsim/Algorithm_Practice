@@ -167,6 +167,7 @@ Closed #24
 ## 힙
 - [ ] [PG - 더 맵게](https://github.com/suhyunsim/Algorithm_Practice/issues/101)
 
+
 ## 다이나믹 프로그래밍
 - [x] [BOJ - 1463. 1로 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/111)
 - [ ] [BOJ - 12913. 땅따먹기](https://github.com/suhyunsim/Algorithm_Practice/issues/112)
@@ -196,8 +197,11 @@ Closed #24
 - [ ] [BOJ - 2133. 타일 채우기](https://github.com/suhyunsim/Algorithm_Practice/issues/145)
 
 
-## BFS
+## DFS, BFS
 - [ ] [BOJ - 1697. 숨바꼭질](https://github.com/suhyunsim/Algorithm_Practice/issues/119)
 - [ ] [BOJ - 1926. 그림](https://github.com/suhyunsim/Algorithm_Practice/issues/120)
 - [x] [BOJ - 2178. 미로탐색](https://github.com/suhyunsim/Algorithm_Practice/issues/39)
 - [ ] [BOJ - 7576. 토마토](https://github.com/suhyunsim/Algorithm_Practice/issues/122)
+- [ ] [BOJ - 13023. ABCDE](https://github.com/suhyunsim/Algorithm_Practice/issues/147)
+- [x] [BOJ - 1260. DFS와 BFS](https://github.com/suhyunsim/Algorithm_Practice/issues/149)
+- [x] [BOJ - 11724. 연결 요소의 개수](https://github.com/suhyunsim/Algorithm_Practice/issues/150)
