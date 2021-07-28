@@ -205,3 +205,6 @@ Closed #24
 - [ ] [BOJ - 13023. ABCDE](https://github.com/suhyunsim/Algorithm_Practice/issues/147)
 - [x] [BOJ - 1260. DFS와 BFS](https://github.com/suhyunsim/Algorithm_Practice/issues/149)
 - [x] [BOJ - 11724. 연결 요소의 개수](https://github.com/suhyunsim/Algorithm_Practice/issues/150)
+- [ ] [BOJ - 1707. 이분 그래프](https://github.com/suhyunsim/Algorithm_Practice/issues/151)
+- [x] [BOJ - 2667. 단지번호붙이기](https://github.com/suhyunsim/Algorithm_Practice/issues/152)
+- [x] [BOJ - 7562. 나이트의 이동](https://github.com/suhyunsim/Algorithm_Practice/issues/153)
