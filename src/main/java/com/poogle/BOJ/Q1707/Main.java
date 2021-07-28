@@ -34,12 +34,12 @@ public class Main {
         }
     }
 
-    private static boolean dfs(ArrayList<Integer>[] a, int[] color, int x, int c) {
-        color[x] = c; //c는 1 or 2, node가 c일 때 next는 3 - c
-        for (int next : a[x]) {
+    private static boolean dfs(ArrayList<Integer>[] a, int[] color, int now, int c) {
+        color[now] = c; //c는 1 or 2, node가 c일 때 next는 3 - c
+        for (int next : a[now]) {
             if (color[next] == 0) {
                 if (!dfs(a, color, next, 3 - c)) return false;
-            } else if (color[next] == color[x]) return false;
+            } else if (color[next] == color[now]) return false;
         }
         return true;
     }
