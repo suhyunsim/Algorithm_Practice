@@ -209,3 +209,6 @@ Closed #24
 - [x] [BOJ - 2667. 단지번호붙이기](https://github.com/suhyunsim/Algorithm_Practice/issues/152)
 - [x] [BOJ - 7562. 나이트의 이동](https://github.com/suhyunsim/Algorithm_Practice/issues/153)
 - [x] [BOJ - 13913. 숨바꼭질 4](https://github.com/suhyunsim/Algorithm_Practice/issues/154)
+- [ ] [BOJ - 13913. 이모티콘](https://github.com/suhyunsim/Algorithm_Practice/issues/155)
+- [ ] [BOJ - 13549. 숨바꼭질 3](https://github.com/suhyunsim/Algorithm_Practice/issues/156)
+- [x] [BOJ - 1261. 알고스팟](https://github.com/suhyunsim/Algorithm_Practice/issues/157)
