@@ -212,3 +212,9 @@ Closed #24
 - [ ] [BOJ - 13913. 이모티콘](https://github.com/suhyunsim/Algorithm_Practice/issues/155)
 - [ ] [BOJ - 13549. 숨바꼭질 3](https://github.com/suhyunsim/Algorithm_Practice/issues/156)
 - [x] [BOJ - 1261. 알고스팟](https://github.com/suhyunsim/Algorithm_Practice/issues/157)
+
+## 시뮬레이션
+- [ ] [BOJ - 16926. 배열 돌리기 1](https://github.com/suhyunsim/Algorithm_Practice/issues/159)
+- [x] [BOJ - 16926. 배열 돌리기 2](https://github.com/suhyunsim/Algorithm_Practice/issues/160)
+- [ ] [BOJ - 14891. 톱니바퀴](https://github.com/suhyunsim/Algorithm_Practice/issues/162)
+- [x] [BOJ - 15662. 톱니바퀴 (2)](https://github.com/suhyunsim/Algorithm_Practice/issues/163)
