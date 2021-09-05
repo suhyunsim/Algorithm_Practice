@@ -218,3 +218,5 @@ Closed #24
 - [x] [BOJ - 16926. 배열 돌리기 2](https://github.com/suhyunsim/Algorithm_Practice/issues/160)
 - [ ] [BOJ - 14891. 톱니바퀴](https://github.com/suhyunsim/Algorithm_Practice/issues/162)
 - [x] [BOJ - 15662. 톱니바퀴 (2)](https://github.com/suhyunsim/Algorithm_Practice/issues/163)
+- [x] [BOJ - 14503. 로봇 청소기](https://github.com/suhyunsim/Algorithm_Practice/issues/164)
+- [ ] [BOJ - 14890. 경사로](https://github.com/suhyunsim/Algorithm_Practice/issues/165)
