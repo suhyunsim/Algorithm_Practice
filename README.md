@@ -88,6 +88,8 @@ Closed #24
 - [x] [BOJ - 10971. 외판원 순회 2](https://github.com/suhyunsim/Algorithm_Practice/issues/82)
 - [ ] [BOJ - 소수 찾기](https://github.com/suhyunsim/Algorithm_Practice/issues/116)
 - [x] [PG - 카펫](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q42842/Solution.java)
+- [x] [BOJ - 부분 수열의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/171)
+- [x] [BOJ - 부분 수열의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/172)
 
 
 ## 정렬
@@ -220,3 +222,4 @@ Closed #24
 - [x] [BOJ - 15662. 톱니바퀴 (2)](https://github.com/suhyunsim/Algorithm_Practice/issues/163)
 - [x] [BOJ - 14503. 로봇 청소기](https://github.com/suhyunsim/Algorithm_Practice/issues/164)
 - [ ] [BOJ - 14890. 경사로](https://github.com/suhyunsim/Algorithm_Practice/issues/165)
+- [ ] [BOJ - 15685. 드래곤 커브](https://github.com/suhyunsim/Algorithm_Practice/issues/166)
