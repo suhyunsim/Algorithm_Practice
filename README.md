@@ -90,7 +90,9 @@ Closed #24
 - [x] [PG - 카펫](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q42842/Solution.java)
 - [x] [BOJ - 부분 수열의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/171)
 - [x] [BOJ - 부분 수열의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/172)
-
+- [ ] [BOJ - 연산자 끼워넣기](https://github.com/suhyunsim/Algorithm_Practice/issues/173)
+- [x] [BOJ - 연산자 끼워넣기(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/174)
+- [ ] [BOJ - 두 동전](https://github.com/suhyunsim/Algorithm_Practice/issues/175)
 
 ## 정렬
 - [ ] [BOJ - 3273. 두 수의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/9)
