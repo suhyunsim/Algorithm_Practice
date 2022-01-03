@@ -66,6 +66,10 @@ Closed #24
 - [ ] [PG - 124 나라의 숫자](https://github.com/suhyunsim/Algorithm_Practice/issues/100)
 - [x] [PG - JadenCase 문자열 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12951/Solution.java)
 - [x] [PG - 다음 큰 수](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12911/Solution.java)
+- [x] [PG - 숫자 문자열과 영단어](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q81301/Solution.java)
+- [x] [PG - 없는 숫자 더하기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q86051/Solution.java)
+- [x] [PG - 최소직사각형](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q86491/Solution.java)
+
 
 
 ## 해시
@@ -151,6 +155,7 @@ Closed #24
 - [x] [BOJ - 15661. 링크와 스타트](https://github.com/suhyunsim/Algorithm_Practice/issues/75)
 - [x] [BOJ - 2529. 링크와 스타트](https://github.com/suhyunsim/Algorithm_Practice/issues/76)
 - [ ] [BOJ - 1248. 맞춰봐](https://github.com/suhyunsim/Algorithm_Practice/issues/77)
+- [x] [BOJ - 16198. 에너지 모으기](https://github.com/suhyunsim/Algorithm_Practice/issues/176)
 
 
 ## 재귀
