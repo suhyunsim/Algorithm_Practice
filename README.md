@@ -74,7 +74,6 @@ Closed #24
 - [x] [PG - 튜플](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q68065/Solution.java)
 
 
-
 ## 해시
 - [x] [PG - 전화번호 목록](https://github.com/suhyunsim/Algorithm_Practice/issues/103)
 - [x] [PG - 위장](https://github.com/suhyunsim/Algorithm_Practice/issues/109)
@@ -224,6 +223,8 @@ Closed #24
 - [ ] [BOJ - 13913. 이모티콘](https://github.com/suhyunsim/Algorithm_Practice/issues/155)
 - [ ] [BOJ - 13549. 숨바꼭질 3](https://github.com/suhyunsim/Algorithm_Practice/issues/156)
 - [x] [BOJ - 1261. 알고스팟](https://github.com/suhyunsim/Algorithm_Practice/issues/157)
+- [ ] [PG - 불량 사용자](https://github.com/suhyunsim/Algorithm_Practice/issues/185)
+
 
 ## 시뮬레이션
 - [ ] [BOJ - 16926. 배열 돌리기 1](https://github.com/suhyunsim/Algorithm_Practice/issues/159)
