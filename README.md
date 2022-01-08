@@ -125,6 +125,7 @@ Closed #24
 - [x] [PG - 주식 가격](https://github.com/suhyunsim/Algorithm_Practice/issues/107)
 - [ ] [PG - 큰 수 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/108)
 - [x] [PG - 올바른 괄호](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12909/Solution.java)
+- [ ] [BOJ - 17298. 오큰수](https://github.com/suhyunsim/Algorithm_Practice/issues/17298)
 
 ## 큐, 덱
 - [x] [BOJ - 5397. 키로거](https://github.com/suhyunsim/Algorithm_Practice/issues/17)
