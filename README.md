@@ -228,6 +228,7 @@ Closed #24
 - [ ] [BOJ - 13549. 숨바꼭질 3](https://github.com/suhyunsim/Algorithm_Practice/issues/156)
 - [x] [BOJ - 1261. 알고스팟](https://github.com/suhyunsim/Algorithm_Practice/issues/157)
 - [ ] [PG - 불량 사용자](https://github.com/suhyunsim/Algorithm_Practice/issues/185)
+- [ ] [BOJ - 1012. 유기농 배추](https://github.com/suhyunsim/Algorithm_Practice/issues/1012)
 
 
 ## 시뮬레이션
