@@ -49,4 +49,29 @@ public class Solution {
         }
         return answer.stream().filter(Objects::nonNull).mapToInt(i -> i).toArray();
     }
+
+    public int[] solutionTwo(int[] answers) {
+        int[] answer = {};
+        int[] pOne = {1, 2, 3, 4, 5};
+        int[] pTwo = {2, 1, 2, 3, 2, 4, 2, 5};
+        int[] pThree = {3, 3, 1, 1, 2, 2, 4, 4, 5, 5};
+        int aOne = 0, aTwo = 0, aThree = 0;
+
+        for (int i = 0; i < answers.length; i++) {
+            if (pOne[i % pOne.length] == answers[i]) aOne++;
+            if (pTwo[i % pTwo.length] == answers[i]) aTwo++;
+            if (pThree[i % pThree.length] == answers[i]) aThree++;
+        }
+        int max = Math.max(Math.max(aOne, aTwo), aThree);
+        ArrayList<Integer> list = new ArrayList<>();
+        if (max == aOne) list.add(1);
+        if (max == aTwo) list.add(2);
+        if (max == aThree) list.add(3);
+
+        answer = new int[list.size()];
+        for (int i = 0; i < answer.length; i++) {
+            answer[i] = list.get(i);
+        }
+        return answer;
+    }
 }
