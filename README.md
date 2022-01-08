@@ -66,13 +66,14 @@ Closed #24
 - [ ] [PG - 124 나라의 숫자](https://github.com/suhyunsim/Algorithm_Practice/issues/100)
 - [x] [PG - JadenCase 문자열 만들기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12951/Solution.java)
 - [x] [PG - 다음 큰 수](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12911/Solution.java)
-- [x] [PG - 숫자 문자열과 영단어](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q81301/Solution.java)
-- [x] [PG - 없는 숫자 더하기](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q86051/Solution.java)
-- [x] [PG - 최소직사각형](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q86491/Solution.java)
-- [x] [PG - 멀쩡한 사각형](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q62048/Solution.java)
-- [x] [PG - 삼각 달팽이](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q68645/Solution.java)
-- [x] [PG - 튜플](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q68065/Solution.java)
-- [ ] [PG - 빛의 경로 사이클](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q86052/Solution.java)
+- [x] [PG - 숫자 문자열과 영단어](https://github.com/suhyunsim/Algorithm_Practice/issues/178)
+- [x] [PG - 없는 숫자 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/179)
+- [x] [PG - 최소직사각형](https://github.com/suhyunsim/Algorithm_Practice/issues/180)
+- [x] [PG - 멀쩡한 사각형](https://github.com/suhyunsim/Algorithm_Practice/issues/181)
+- [x] [PG - 삼각 달팽이](https://github.com/suhyunsim/Algorithm_Practice/issues/183)
+- [x] [PG - 튜플](https://github.com/suhyunsim/Algorithm_Practice/issues/184)
+- [ ] [PG - 빛의 경로 사이클](https://github.com/suhyunsim/Algorithm_Practice/issues/182)
+
 
 ## 해시
 - [x] [PG - 전화번호 목록](https://github.com/suhyunsim/Algorithm_Practice/issues/103)
@@ -125,7 +126,9 @@ Closed #24
 - [x] [PG - 주식 가격](https://github.com/suhyunsim/Algorithm_Practice/issues/107)
 - [ ] [PG - 큰 수 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/108)
 - [x] [PG - 올바른 괄호](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12909/Solution.java)
-- [ ] [BOJ - 17298. 오큰수](https://github.com/suhyunsim/Algorithm_Practice/issues/17298)
+- [ ] [BOJ - 17298. 오큰수](https://github.com/suhyunsim/Algorithm_Practice/issues/33)
+- [x] [BOJ - 4889. 안정적인 문자열](https://github.com/suhyunsim/Algorithm_Practice/issues/38)
+
 
 ## 큐, 덱
 - [x] [BOJ - 5397. 키로거](https://github.com/suhyunsim/Algorithm_Practice/issues/17)
