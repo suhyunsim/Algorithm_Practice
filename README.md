@@ -71,6 +71,7 @@ Closed #24
 - [x] [PG - 최소직사각형](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q86491/Solution.java)
 - [x] [PG - 멀쩡한 사각형](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q62048/Solution.java)
 - [x] [PG - 삼각 달팽이](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q68645/Solution.java)
+- [x] [PG - 튜플](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q68065/Solution.java)
 
 
 
