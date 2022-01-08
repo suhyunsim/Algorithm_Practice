@@ -72,7 +72,7 @@ Closed #24
 - [x] [PG - 멀쩡한 사각형](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q62048/Solution.java)
 - [x] [PG - 삼각 달팽이](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q68645/Solution.java)
 - [x] [PG - 튜플](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q68065/Solution.java)
-
+- [ ] [PG - 빛의 경로 사이클](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q86052/Solution.java)
 
 ## 해시
 - [x] [PG - 전화번호 목록](https://github.com/suhyunsim/Algorithm_Practice/issues/103)
