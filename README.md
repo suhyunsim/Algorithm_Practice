@@ -101,6 +101,7 @@ Closed #24
 - [x] [BOJ - 연산자 끼워넣기(2)](https://github.com/suhyunsim/Algorithm_Practice/issues/174)
 - [ ] [BOJ - 두 동전](https://github.com/suhyunsim/Algorithm_Practice/issues/175)
 - [x] [PG - 모의고사](https://github.com/suhyunsim/Algorithm_Practice/issues/88)
+- [ ] [PG - 수식 최대화](https://github.com/suhyunsim/Algorithm_Practice/issues/186)
 
 
 ## 정렬
