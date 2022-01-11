@@ -131,6 +131,7 @@ Closed #24
 - [x] [PG - 올바른 괄호](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/PG/Q12909/Solution.java)
 - [ ] [BOJ - 17298. 오큰수](https://github.com/suhyunsim/Algorithm_Practice/issues/33)
 - [x] [BOJ - 4889. 안정적인 문자열](https://github.com/suhyunsim/Algorithm_Practice/issues/38)
+- [x] [PG - 표 편집](https://github.com/suhyunsim/Algorithm_Practice/issues/63)
 
 
 ## 큐, 덱
@@ -231,7 +232,8 @@ Closed #24
 - [ ] [BOJ - 13549. 숨바꼭질 3](https://github.com/suhyunsim/Algorithm_Practice/issues/156)
 - [x] [BOJ - 1261. 알고스팟](https://github.com/suhyunsim/Algorithm_Practice/issues/157)
 - [ ] [PG - 불량 사용자](https://github.com/suhyunsim/Algorithm_Practice/issues/185)
-- [x] [BOJ - 1012. 유기농 배추](https://github.com/suhyunsim/Algorithm_Practice/issues/1012)
+- [x] [BOJ - 1012. 유기농 배추](https://github.com/suhyunsim/Algorithm_Practice/issues/42)
+- [x] [거리두기 확인하기](https://github.com/suhyunsim/Algorithm_Practice/issues/187)
 
 
 ## 시뮬레이션
