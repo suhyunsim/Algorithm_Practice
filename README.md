@@ -238,6 +238,7 @@ Closed #24
 - [x] [PG - 거리두기 확인하기](https://github.com/suhyunsim/Algorithm_Practice/issues/187)
 - [x] [BOJ - 10026. 적록색약](https://github.com/suhyunsim/Algorithm_Practice/issues/188)
 - [ ] [BOJ - 7569. 토마토](https://github.com/suhyunsim/Algorithm_Practice/issues/189)
+- [x] [BOJ - 2583. 영역 구하기](https://github.com/suhyunsim/Algorithm_Practice/issues/190)
 
 ## 시뮬레이션
 - [ ] [BOJ - 16926. 배열 돌리기 1](https://github.com/suhyunsim/Algorithm_Practice/issues/159)
