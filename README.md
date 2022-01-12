@@ -1,7 +1,9 @@
 # Algorithm_Practice 📚
 자료구조 & 알고리즘 문제풀이 저장소
 
-> 🗂 [BackStage 그룹의 WeekBack 알고리즘 Repository](https://github.com/back-stage/WeekBack-Algorithm)
+> 🗂 [WeekBack 알고리즘 스터디 Repository](https://github.com/back-stage/WeekBack-Algorithm)
+
+> 🗂 [Algohapsida 알고리즘 스터디 Repository](https://github.com/poogle-family/algohapsida)
 
 ### Commit Convention 🤓
 ```
@@ -235,7 +237,7 @@ Closed #24
 - [x] [BOJ - 1012. 유기농 배추](https://github.com/suhyunsim/Algorithm_Practice/issues/42)
 - [x] [PG - 거리두기 확인하기](https://github.com/suhyunsim/Algorithm_Practice/issues/187)
 - [x] [BOJ - 10026. 적록색약](https://github.com/suhyunsim/Algorithm_Practice/issues/188)
-
+- [ ] [BOJ - 7569. 토마토](https://github.com/suhyunsim/Algorithm_Practice/issues/189)
 
 ## 시뮬레이션
 - [ ] [BOJ - 16926. 배열 돌리기 1](https://github.com/suhyunsim/Algorithm_Practice/issues/159)
