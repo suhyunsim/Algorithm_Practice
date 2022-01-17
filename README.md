@@ -176,8 +176,8 @@ Closed #24
 - [x] [BOJ - 14501. 퇴사](https://github.com/suhyunsim/Algorithm_Practice/issues/73)
 - [ ] [BOJ - 6603. 로또](https://github.com/suhyunsim/Algorithm_Practice/issues/83)
 - [ ] [PG - 타겟 넘버](https://github.com/suhyunsim/Algorithm_Practice/issues/121)
-- [ ] [BOJ - 1629. 곱셈](https://github.com/suhyunsim/Algorithm_Practice/issues/)
-
+- [ ] [BOJ - 1629. 곱셈](https://github.com/suhyunsim/Algorithm_Practice/issues/194)
+- [ ] [BOJ - 11729. 하노이 탑 이동 순서](https://github.com/suhyunsim/Algorithm_Practice/issues/195)
 
 ## 탐욕
 - [x] [PG - 체육복](https://github.com/suhyunsim/Algorithm_Practice/issues/95)
