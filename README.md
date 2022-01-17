@@ -243,6 +243,8 @@ Closed #24
 - [x] [BOJ - 5014. 스타트링크](https://github.com/suhyunsim/Algorithm_Practice/issues/191)
 - [x] [BOJ - 2468. 안전 영역](https://github.com/suhyunsim/Algorithm_Practice/issues/192)
 - [ ] [BOJ - 6593. 상범 빌딩](https://github.com/suhyunsim/Algorithm_Practice/issues/193)
+- [x] [PG - 단어 변환](https://github.com/suhyunsim/Algorithm_Practice/issues/196)
+
 
 ## 시뮬레이션
 - [ ] [BOJ - 16926. 배열 돌리기 1](https://github.com/suhyunsim/Algorithm_Practice/issues/159)
