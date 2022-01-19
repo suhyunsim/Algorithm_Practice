@@ -178,6 +178,7 @@ Closed #24
 - [ ] [PG - 타겟 넘버](https://github.com/suhyunsim/Algorithm_Practice/issues/121)
 - [ ] [BOJ - 1629. 곱셈](https://github.com/suhyunsim/Algorithm_Practice/issues/194)
 - [ ] [BOJ - 11729. 하노이 탑 이동 순서](https://github.com/suhyunsim/Algorithm_Practice/issues/195)
+- [X] [BOJ - 1074. Z](https://github.com/suhyunsim/Algorithm_Practice/issues/197)
 
 ## 탐욕
 - [x] [PG - 체육복](https://github.com/suhyunsim/Algorithm_Practice/issues/95)
