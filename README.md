@@ -75,6 +75,8 @@ Closed #24
 - [x] [PG - 삼각 달팽이](https://github.com/suhyunsim/Algorithm_Practice/issues/183)
 - [x] [PG - 튜플](https://github.com/suhyunsim/Algorithm_Practice/issues/184)
 - [ ] [PG - 빛의 경로 사이클](https://github.com/suhyunsim/Algorithm_Practice/issues/182)
+- [x] [BOJ - 1316. 그룹 단어 체커](https://github.com/suhyunsim/Algorithm_Practice/issues/206)
+- [x] [BOJ - 2941. 크로아티아 알파벳](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q29411/Main.java)
 
 
 ## 해시
@@ -182,8 +184,10 @@ Closed #24
 - [X] [BOJ - 17478. 재귀함수가 뭔가요?](https://github.com/suhyunsim/Algorithm_Practice/issues/198)
 - [X] [BOJ - 2630. 색종이 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/201)
 - [X] [BOJ - 1780. 종이의 개수](https://github.com/suhyunsim/Algorithm_Practice/issues/202)
+- [ ] [PG - 사라지는 발판](https://github.com/suhyunsim/Algorithm_Practice/issues/204)
 
-## 탐욕
+
+# 탐욕
 - [x] [PG - 체육복](https://github.com/suhyunsim/Algorithm_Practice/issues/95)
 - [x] [PG - 피보나치 수](https://github.com/suhyunsim/Algorithm_Practice/issues/106)
 - [ ] [PG - 조이스틱](https://github.com/suhyunsim/Algorithm_Practice/issues/110)
@@ -260,3 +264,6 @@ Closed #24
 - [x] [BOJ - 14503. 로봇 청소기](https://github.com/suhyunsim/Algorithm_Practice/issues/164)
 - [ ] [BOJ - 14890. 경사로](https://github.com/suhyunsim/Algorithm_Practice/issues/165)
 - [ ] [BOJ - 15685. 드래곤 커브](https://github.com/suhyunsim/Algorithm_Practice/issues/166)
+
+## 다익스트라
+- [ ] [BOJ - 1753. 최단경로](https://github.com/suhyunsim/Algorithm_Practice/issues/205)
