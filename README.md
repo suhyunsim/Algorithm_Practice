@@ -185,6 +185,7 @@ Closed #24
 - [X] [BOJ - 2630. 색종이 만들기](https://github.com/suhyunsim/Algorithm_Practice/issues/201)
 - [X] [BOJ - 1780. 종이의 개수](https://github.com/suhyunsim/Algorithm_Practice/issues/202)
 - [ ] [PG - 사라지는 발판](https://github.com/suhyunsim/Algorithm_Practice/issues/204)
+- [X] [BOJ - 1992. 쿼드트리](https://github.com/suhyunsim/Algorithm_Practice/issues/207)
 
 
 # 탐욕
@@ -267,3 +268,7 @@ Closed #24
 
 ## 다익스트라
 - [ ] [BOJ - 1753. 최단경로](https://github.com/suhyunsim/Algorithm_Practice/issues/205)
+
+
+## 비트마스크
+- [ ] [BOJ - 11723. 집합](https://github.com/suhyunsim/Algorithm_Practice/issues/84)
