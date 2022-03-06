@@ -18,9 +18,11 @@ public class Main {
                 cost[i][j] = sc.nextInt();
             }
         }
+        //첫 번째 집의 색을 고정해서 풀기
         for (int k = 0; k < 3; k++) {
             for (int i = 0; i < 3; i++) {
                 if (i == k) {
+                    //현재 색을 첫 번째 집 색으로 고정
                     minCost[1][i] = cost[1][i];
                 } else {
                     minCost[1][i] = MAX;
@@ -32,6 +34,7 @@ public class Main {
                 minCost[i][2] = Math.min(minCost[i - 1][0], minCost[i - 1][1]) + cost[i][2];
             }
             for (int i = 0; i < 3; i++) {
+                //첫번째 집 색이 k인 경우 마지막 집은 k가 아닌 색이 가능
                 if (i != k) {
                     answer = Math.min(answer, minCost[n][i]);
                 }
