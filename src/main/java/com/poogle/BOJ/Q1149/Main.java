@@ -3,23 +3,24 @@ package main.java.com.poogle.BOJ.Q1149;
 import java.util.Scanner;
 
 public class Main {
-    static int[][] d;
-    static int[][] a;
+    static int[][] minCost;
+    static int[][] cost;
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        d = new int[n + 1][3];
-        a = new int[n + 1][3];
+        minCost = new int[n + 1][3];
+        cost = new int[n + 1][3];
         for (int i = 1; i <= n; i++) {
             for (int j = 0; j < 3; j++) {
-                a[i][j] = sc.nextInt();
+                cost[i][j] = sc.nextInt();
             }
         }
         for (int i = 1; i <= n; i++) {
-            d[i][0] = Math.min(d[i - 1][1], d[i - 1][2]) + a[i][0];
-            d[i][1] = Math.min(d[i - 1][0], d[i - 1][2]) + a[i][1];
-            d[i][2] = Math.min(d[i - 1][0], d[i - 1][1]) + a[i][2];
+            minCost[i][0] = Math.min(minCost[i - 1][1], minCost[i - 1][2]) + cost[i][0];
+            minCost[i][1] = Math.min(minCost[i - 1][0], minCost[i - 1][2]) + cost[i][1];
+            minCost[i][2] = Math.min(minCost[i - 1][0], minCost[i - 1][1]) + cost[i][2];
         }
-        System.out.println(Math.min(Math.min(d[n][0], d[n][1]), d[n][2]));
+        System.out.println(Math.min(Math.min(minCost[n][0], minCost[n][1]), minCost[n][2]));
     }
 }
