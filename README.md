@@ -77,6 +77,9 @@ Closed #24
 - [ ] [PG - 빛의 경로 사이클](https://github.com/suhyunsim/Algorithm_Practice/issues/182)
 - [x] [BOJ - 1316. 그룹 단어 체커](https://github.com/suhyunsim/Algorithm_Practice/issues/206)
 - [x] [BOJ - 2941. 크로아티아 알파벳](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q29411/Main.java)
+- [x] [BOJ - 1292. 쉽게 푸는 문제](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1292/Main.java)
+- [x] [BOJ - 2693. N번째 큰 수](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q2693/Main.java)
+- [x] [PG - 신고 결과 받기](https://github.com/suhyunsim/Algorithm_Practice/issues/218)
 
 
 ## 해시
@@ -207,6 +210,8 @@ Closed #24
 - [x] [BOJ - 11727. 2 x n 타일링 2](https://github.com/suhyunsim/Algorithm_Practice/issues/124)
 - [x] [BOJ - 11052. 카드 구매하기](https://github.com/suhyunsim/Algorithm_Practice/issues/125)
 - [x] [BOJ - 16194. 카드 구매하기 2](https://github.com/suhyunsim/Algorithm_Practice/issues/126)
+- [x] [BOJ - 9095. 1, 2, 3 더하기](https://github.com/suhyunsim/Algorithm_Practice/issues/71)
+- [x] [BOJ - 15988. 1, 2, 3 더하기 3](https://github.com/suhyunsim/Algorithm_Practice/issues/135)
 - [x] [BOJ - 15990. 1, 2, 3 더하기 5](https://github.com/suhyunsim/Algorithm_Practice/issues/127)
 - [ ] [BOJ - 10844. 쉬운 계단 수](https://github.com/suhyunsim/Algorithm_Practice/issues/128)
 - [x] [BOJ - 2193. 이친수](https://github.com/suhyunsim/Algorithm_Practice/issues/129)
@@ -215,8 +220,8 @@ Closed #24
 - [x] [BOJ - 1912. 연속합](https://github.com/suhyunsim/Algorithm_Practice/issues/132)
 - [x] [BOJ - 1699. 제곱수의 합](https://github.com/suhyunsim/Algorithm_Practice/issues/133)
 - [ ] [BOJ - 2225. 합분해](https://github.com/suhyunsim/Algorithm_Practice/issues/134)
-- [x] [BOJ - 15988. 1, 2, 3 더하기 3](https://github.com/suhyunsim/Algorithm_Practice/issues/135)
 - [x] [BOJ - 1149. RGB 거리](https://github.com/suhyunsim/Algorithm_Practice/issues/136)
+- [ ] [BOJ - 17404. RGB 거리 2](https://github.com/suhyunsim/Algorithm_Practice/issues/222)
 - [x] [BOJ - 1309. 동물원](https://github.com/suhyunsim/Algorithm_Practice/issues/137)
 - [ ] [BOJ - 11057. 오르막 수](https://github.com/suhyunsim/Algorithm_Practice/issues/138)
 - [x] [BOJ - 2156. 포도주 시식](https://github.com/suhyunsim/Algorithm_Practice/issues/139)
@@ -226,6 +231,10 @@ Closed #24
 - [x] [BOJ - 11054. 가장 긴 바이토닉 부분 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/143)
 - [x] [BOJ - 13398. 연속합 2](https://github.com/suhyunsim/Algorithm_Practice/issues/144)
 - [ ] [BOJ - 2133. 타일 채우기](https://github.com/suhyunsim/Algorithm_Practice/issues/145)
+- [x] [BOJ - 17626. Four Squares](https://github.com/suhyunsim/Algorithm_Practice/issues/215)
+- [x] [BOJ - 9461. 파도반 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/220)
+- [ ] [BOJ - 2579. 계단 오르기](https://github.com/suhyunsim/Algorithm_Practice/issues/216)
+- [ ] [PG - 정수 삼각형](https://github.com/suhyunsim/Algorithm_Practice/issues/214)
 
 
 ## DFS, BFS
@@ -266,9 +275,18 @@ Closed #24
 - [ ] [BOJ - 14890. 경사로](https://github.com/suhyunsim/Algorithm_Practice/issues/165)
 - [ ] [BOJ - 15685. 드래곤 커브](https://github.com/suhyunsim/Algorithm_Practice/issues/166)
 
+
 ## 다익스트라
 - [ ] [BOJ - 1753. 최단경로](https://github.com/suhyunsim/Algorithm_Practice/issues/205)
 
 
 ## 비트마스크
 - [ ] [BOJ - 11723. 집합](https://github.com/suhyunsim/Algorithm_Practice/issues/84)
+
+
+## 이진탐색
+- [ ] [BOJ - 1072. 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/209)
+
+
+## 우선순위 큐
+- [ ] [BOJ - 11286. 절댓값 힙](https://github.com/suhyunsim/Algorithm_Practice/issues/219)
