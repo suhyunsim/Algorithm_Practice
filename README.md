@@ -286,6 +286,10 @@ Closed #24
 
 ## 이진탐색
 - [ ] [BOJ - 1072. 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/209)
+- [x] [BOJ - 1920. 수 찾기](https://github.com/suhyunsim/Algorithm_Practice/issues/223)
+- [x] [BOJ - 10816. 숫자 카드 2](https://github.com/suhyunsim/Algorithm_Practice/issues/225)
+- [x] [BOJ - 1654. 랜선 자르기](https://github.com/suhyunsim/Algorithm_Practice/issues/224)
+- [ ] [BOJ - 1208. 부분수열의 합 2](https://github.com/suhyunsim/Algorithm_Practice/issues/211)
 
 
 ## 우선순위 큐
