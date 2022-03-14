@@ -1,4 +1,4 @@
-package main.java.com.poogle.PGTest.kakaoEnterp.Q1;
+package main.java.com.poogle.PGTest.kkop.Q1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
