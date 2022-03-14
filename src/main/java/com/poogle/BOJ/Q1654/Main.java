@@ -20,12 +20,13 @@ public class Main {
         while (max >= min) {
             long mid = (max + min) / 2;
             long cnt = 0;
+            // 구해진 중간 길이로 잘라서 총 몇 개가 만들어지는지
             for (int i : arr) {
                 cnt += i / mid;
             }
             if (cnt >= n) {
                 min = mid + 1;
-            } else if (cnt < n) {
+            } else {
                 max = mid - 1;
             }
         }
