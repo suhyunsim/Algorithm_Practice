@@ -196,6 +196,9 @@ Closed #24
 - [x] [PG - 피보나치 수](https://github.com/suhyunsim/Algorithm_Practice/issues/106)
 - [ ] [PG - 조이스틱](https://github.com/suhyunsim/Algorithm_Practice/issues/110)
 - [x] [BOJ - 11047. 동전 0](https://github.com/suhyunsim/Algorithm_Practice/issues/226)
+- [x] [BOJ - 2217. 로프](https://github.com/suhyunsim/Algorithm_Practice/issues/229)
+- [x] [BOJ - 1931. 회의실 배정](https://github.com/suhyunsim/Algorithm_Practice/issues/228)
+- [x] [BOJ - 2457. 공주님의 정원](https://github.com/suhyunsim/Algorithm_Practice/issues/230)
 
 
 ## 힙
