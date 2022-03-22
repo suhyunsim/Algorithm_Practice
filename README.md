@@ -277,6 +277,7 @@ Closed #24
 - [x] [BOJ - 14503. 로봇 청소기](https://github.com/suhyunsim/Algorithm_Practice/issues/164)
 - [ ] [BOJ - 14890. 경사로](https://github.com/suhyunsim/Algorithm_Practice/issues/165)
 - [ ] [BOJ - 15685. 드래곤 커브](https://github.com/suhyunsim/Algorithm_Practice/issues/166)
+- [x] [BOJ - 20436. ZOAC 3](https://github.com/suhyunsim/Algorithm_Practice/issues/232)
 
 
 ## 다익스트라
