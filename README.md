@@ -80,6 +80,7 @@ Closed #24
 - [x] [BOJ - 1292. 쉽게 푸는 문제](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1292/Main.java)
 - [x] [BOJ - 2693. N번째 큰 수](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q2693/Main.java)
 - [x] [PG - 신고 결과 받기](https://github.com/suhyunsim/Algorithm_Practice/issues/218)
+- [x] [BOJ - 11659. 구간 합 구하기 4](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1659/Main.java)
 
 
 ## 해시
