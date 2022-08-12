@@ -82,6 +82,7 @@ Closed #24
 - [x] [PG - 신고 결과 받기](https://github.com/suhyunsim/Algorithm_Practice/issues/218)
 - [x] [BOJ - 11659. 구간 합 구하기 4](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q1659/Main.java)
 - [x] [BOJ - 2588. 곱셈](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q2588/Main.java)
+- [x] [BOJ - 2480. 주사위 세개](https://github.com/suhyunsim/Algorithm_Practice/blob/master/src/main/java/com/poogle/BOJ/Q2480/Main.java)
 
 
 ## 해시
