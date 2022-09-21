@@ -122,6 +122,7 @@ Closed #24
 - [x] [PG - K번째수](https://github.com/suhyunsim/Algorithm_Practice/issues/86)
 - [x] [PG - 실패율](https://github.com/suhyunsim/Algorithm_Practice/issues/96)
 - [ ] [PG - 가장 큰 수](https://github.com/suhyunsim/Algorithm_Practice/issues/104)
+- [x] [BOJ - 2108. 통계학](https://github.com/suhyunsim/Algorithm_Practice/issues/248)
 
 
 ## 스택
@@ -195,7 +196,7 @@ Closed #24
 - [X] [BOJ - 1992. 쿼드트리](https://github.com/suhyunsim/Algorithm_Practice/issues/207)
 
 
-# 탐욕
+## 탐욕
 - [x] [PG - 체육복](https://github.com/suhyunsim/Algorithm_Practice/issues/95)
 - [x] [PG - 피보나치 수](https://github.com/suhyunsim/Algorithm_Practice/issues/106)
 - [ ] [PG - 조이스틱](https://github.com/suhyunsim/Algorithm_Practice/issues/110)
