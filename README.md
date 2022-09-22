@@ -129,7 +129,7 @@ Closed #24
 - [ ] [BOJ - 1406. 에디터](https://github.com/suhyunsim/Algorithm_Practice/issues/16)
 - [x] [BOJ - 10828. 스택](https://github.com/suhyunsim/Algorithm_Practice/issues/20)
 - [x] [BOJ - 10773. 제로](https://github.com/suhyunsim/Algorithm_Practice/issues/21)
-- [ ] [BOJ - 1874. 스택 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/22)
+- [x] [BOJ - 1874. 스택 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/22)
 - [ ] [BOJ - 2493. 탑](https://github.com/suhyunsim/Algorithm_Practice/issues/23)
 - [ ] [BOJ - 6198. 옥상 정원 꾸미기](https://github.com/suhyunsim/Algorithm_Practice/issues/24)
 - [x] [BOJ - 4949. 균형잡힌 세상](https://github.com/suhyunsim/Algorithm_Practice/issues/32)
