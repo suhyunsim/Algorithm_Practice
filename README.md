@@ -126,16 +126,16 @@ Closed #24
 
 
 ## 스택
-- [ ] [BOJ - 1406. 에디터](https://github.com/suhyunsim/Algorithm_Practice/issues/16)
+- [x] [BOJ - 1406. 에디터](https://github.com/suhyunsim/Algorithm_Practice/issues/16)
 - [x] [BOJ - 10828. 스택](https://github.com/suhyunsim/Algorithm_Practice/issues/20)
 - [x] [BOJ - 10773. 제로](https://github.com/suhyunsim/Algorithm_Practice/issues/21)
 - [x] [BOJ - 1874. 스택 수열](https://github.com/suhyunsim/Algorithm_Practice/issues/22)
-- [ ] [BOJ - 2493. 탑](https://github.com/suhyunsim/Algorithm_Practice/issues/23)
-- [ ] [BOJ - 6198. 옥상 정원 꾸미기](https://github.com/suhyunsim/Algorithm_Practice/issues/24)
+- [x] [BOJ - 2493. 탑](https://github.com/suhyunsim/Algorithm_Practice/issues/23)
+- [x] [BOJ - 6198. 옥상 정원 꾸미기](https://github.com/suhyunsim/Algorithm_Practice/issues/24)
 - [x] [BOJ - 4949. 균형잡힌 세상](https://github.com/suhyunsim/Algorithm_Practice/issues/32)
 - [x] [BOJ - 9012. 괄호](https://github.com/suhyunsim/Algorithm_Practice/issues/31)
-- [ ] [BOJ - 10799. 쇠막대기](https://github.com/suhyunsim/Algorithm_Practice/issues/35)
-- [ ] [BOJ - 2504. 괄호의 값](https://github.com/suhyunsim/Algorithm_Practice/issues/36)
+- [x] [BOJ - 10799. 쇠막대기](https://github.com/suhyunsim/Algorithm_Practice/issues/35)
+- [x] [BOJ - 2504. 괄호의 값](https://github.com/suhyunsim/Algorithm_Practice/issues/36)
 - [x] [PG - 괄호 회전하기](https://github.com/suhyunsim/Algorithm_Practice/issues/54)
 - [ ] [PG - 크레인 인형뽑기 게임](https://github.com/suhyunsim/Algorithm_Practice/issues/90)
 - [x] [PG - 주식 가격](https://github.com/suhyunsim/Algorithm_Practice/issues/107)
