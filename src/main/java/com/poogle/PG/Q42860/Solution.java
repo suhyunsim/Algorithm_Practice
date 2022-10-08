@@ -8,17 +8,14 @@ public class Solution {
 
         for (int i = 0; i < len; i++) {
             char c = name.charAt(i);
-            int con = (c - 'A' < 'Z' - c + 1) ? (c - 'A') : ('Z' - c + 1);
-            answer += con;
+            answer += Math.min(c - 'A', 'Z' - c + 1);
+            int index = i + 1;
+            while (index < len && name.charAt(index) == 'A') index++;
 
-            int next = i + 1;
-            //ì * 2 는 중간까지 왔다가 다시 뒤로 돌아갈 때의 조이스틱 이동 횟수이고,
-            // len - nextIndex 는 A 연속 이후로 나오는 알파벳의 위치이다.
-            while (next < len && name.charAt(next) == 'A') next++;
-            min = Math.min(min, (i * 2) + len - next);
+            min = Math.min(i * 2 + (len - index), min);
+            min = Math.min(i + 2 * (len - index), min);
         }
-        answer += min;
-        return answer;
+        return answer + min;
     }
 
     public static void main(String[] args) {
