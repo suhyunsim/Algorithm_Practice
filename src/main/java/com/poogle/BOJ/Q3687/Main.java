@@ -47,7 +47,7 @@ public class Main {
             for (int j = 1; j < a; j++) {
                 max.append("1");
             }
-            System.out.println(minDp[n] + " " + max.toString());
+            System.out.println(minDp[n] + " " + max);
         }
     }
 }
