@@ -1,22 +1,35 @@
+
 package main.java.com.poogle.PG.Q43165;
 
 public class Solution {
+
+    static int answer, target;
+    static int[] numbers;
+
     public static void main(String[] args) {
         System.out.println(solution(new int[]{1, 1, 1, 1, 1}, 3));
+        System.out.println(solution(new int[]{4, 1, 2, 1}, 4));
     }
 
     public static int solution(int[] numbers, int target) {
-        return bfs(numbers, target, numbers[0], 1) + bfs(numbers, target, -numbers[0], 1);
+        answer = 0;
+        Solution.target = target;
+        Solution.numbers = numbers;
+
+        dfs(0, 0);
+
+        return answer;
     }
 
-    private static int bfs(int[] numbers, int target, int sum, int i) {
+    private static void dfs(int sum, int i) {
+        //1. 탈출 조건
         if (numbers.length == i) {
-            if (sum == target) return 1;
-            else return 0;
+            if (target == sum) answer++;
+            return;
         }
-        int result = 0;
-        result += bfs(numbers, target, sum + numbers[i], i + 1);
-        result += bfs(numbers, target, sum - numbers[i], i + 1);
-        return result;
+
+        //2. 실행 동작
+        dfs(sum + numbers[i], i + 1);
+        dfs(sum - numbers[i], i + 1);
     }
 }
