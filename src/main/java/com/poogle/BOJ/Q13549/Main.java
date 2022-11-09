@@ -1,67 +1,53 @@
 package main.java.com.poogle.BOJ.Q13549;
 
-import java.util.ArrayDeque;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
 public class Main {
-    public static final int MAX = 1000000;
+
+    static int max = 100000;
+    static int min = Integer.MAX_VALUE;
+    static int n, k;
+    static boolean[] visited;
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int k = sc.nextInt();
-        boolean[] check = new boolean[MAX];
-        int[] dist = new int[MAX];
-        check[n] = true;
-        dist[n] = 0;
-        //큐 두개로 풀이
-//        Queue<Integer> nowQueue = new LinkedList<>();
-//        Queue<Integer> nextQueue = new LinkedList<>();
-//        nowQueue.add(n);
-//        while (!nowQueue.isEmpty()) {
-//            int now = nowQueue.remove();
-//            for (int next : new int[]{now * 2, now - 1, now + 1}) {
-//                if (next >= 0 && next < MAX) {
-//                    if (!check[next]) {
-//                        check[next] = true;
-//                        if (now * 2 == next) {
-//                            nowQueue.add(next);
-//                            dist[next] = dist[now];
-//                        } else {
-//                            nextQueue.add(next);
-//                            dist[next] = dist[now] + 1;
-//                        }
-//                    }
-//                }
-//            }
-//            if (nowQueue.isEmpty()) {
-//                nowQueue = nextQueue;
-//                nextQueue = new LinkedList<>();
-//            }
-//        }
-//        System.out.println(dist[k]);
-        // 덱으로 풀이
-        ArrayDeque<Integer> deque = new ArrayDeque<>();
-        deque.add(n);
-        while (!deque.isEmpty()) {
-            int now = deque.poll();
-            for (int next : new int[]{now * 2, now - 1, now + 1}) {
-                if (next >= 0 && next < MAX) {
-                    if (!check[next]) {
-                        check[next] = true;
-                        if (now * 2 == next) {
-                            deque.addFirst(next);
-                            dist[next] = dist[now];
-                        } else {
-                            deque.addLast(next);
-                            dist[next] = dist[now] + 1;
-                        }
-                    }
-                }
+        n = sc.nextInt();
+        k = sc.nextInt();
+
+        visited = new boolean[max + 1];
+        bfs();
+        System.out.println(min);
+    }
+
+    public static void bfs() {
+        Queue<Node> queue = new LinkedList<>();
+        queue.offer(new Node(n, 0));
+        while (!queue.isEmpty()) {
+            Node node = queue.poll();
+            visited[node.x] = true;
+            if (node.x == k) {
+                min = Math.min(min, node.time);
+            }
+            if (node.x * 2 <= max && !visited[node.x * 2]) {
+                queue.offer(new Node(node.x * 2, node.time));
+            }
+            if (node.x + 1 <= max && !visited[node.x + 1]) {
+                queue.offer(new Node(node.x + 1, node.time + 1));
+            }
+            if (node.x - 1 >= 0 && !visited[node.x - 1]) {
+                queue.offer(new Node(node.x - 1, node.time + 1));
             }
         }
-        System.out.println(dist[k]);
+    }
+}
+
+class Node {
+    int x, time;
+
+    public Node(int x, int time) {
+        this.x = x;
+        this.time = time;
     }
 }
