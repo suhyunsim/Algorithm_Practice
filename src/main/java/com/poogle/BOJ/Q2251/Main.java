@@ -1,7 +1,6 @@
 package main.java.com.poogle.BOJ.Q2251;
 
 import java.io.*;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
@@ -17,8 +16,6 @@ public class Main {
         }
         boolean[] answer = new boolean[201]; //A가 비어있을 때 C 물의 양
         answer[volume[2]] = true;
-
-        System.out.println(Arrays.toString(answer));
 
         int[] from = {0, 0, 1, 1, 2, 2};
         int[] to = {1, 2, 0, 2, 0, 1};
@@ -56,7 +53,6 @@ public class Main {
                     //A가 비어있을 때의 C의 물의 양
                     if (next[0] == 0) {
                         answer[next[2]] = true;
-                        System.out.println(Arrays.toString(answer));
                     }
                 }
             }
