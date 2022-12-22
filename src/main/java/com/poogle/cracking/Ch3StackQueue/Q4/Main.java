@@ -1,4 +1,4 @@
-package main.java.com.poogle.cracking.Ch3StackQueue;
+package main.java.com.poogle.cracking.Ch3StackQueue.Q4;
 
 import java.util.LinkedList;
 import java.util.Queue;
