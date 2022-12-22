@@ -1,7 +1,7 @@
 package main.java.com.poogle.cracking.Ch1ArrayString.Q5;
 
 public class SolutionA {
-    public static boolean oneEditRemove(String a, String b) {
+    public static boolean oneEditAway(String a, String b) {
         if (a.length() == b.length()) {
             return oneEditReplace(a, b);
         // b > a
@@ -46,7 +46,7 @@ public class SolutionA {
 
     public static void main(String[] args) {
 //        System.out.println(oneEditRemove("pse", "pale"));
-        System.out.println(oneEditRemove("acdsfdsfadsf", "acdsgdsfadsf"));
+        System.out.println(oneEditAway("acdsfdsfadsf", "acdsgdsfadsf"));
 
     }
 }

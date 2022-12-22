@@ -25,8 +25,8 @@ public class Main {
     }
 
     public static void test(String a, String b, boolean expected) {
-        boolean resultA = SolutionA.oneEditRemove(a, b);
-        boolean resultB = SolutionB.oneEditRemove(a, b);
+        boolean resultA = SolutionA.oneEditAway(a, b);
+        boolean resultB = SolutionB.oneEditAway(a, b);
 
         if (resultA == expected && resultB == expected) {
             System.out.println("success: " + a + ", " + b);
