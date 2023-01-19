@@ -1,6 +1,6 @@
 ---
 name: Codility 문제 풀이 템플릿
-about: CD
+about: Codility Lessons
 title: 23.01.19 - [CD] 문제 이름
 labels: ''
 assignees: suhyunsim
