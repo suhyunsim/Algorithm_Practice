@@ -1,31 +1,35 @@
 package main.java.com.poogle.BOJ.Q2579;
 
-import java.util.Scanner;
+import java.io.*;
 
 public class Main {
-    static int[] s = new int[301];
-    static int n;
-    static int[][] d = new int[301][3];
-
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        int n = Integer.parseInt(br.readLine());
+        int[] stairs = new int[301];
         for (int i = 1; i <= n; i++) {
-            s[i] = sc.nextInt();
+            stairs[i] = Integer.parseInt(br.readLine());
         }
         if (n == 1) {
-            System.out.println(s[1]);
+            bw.write(String.valueOf(stairs[1]));
+            bw.flush();
+            bw.close();
             return;
         }
-        d[1][1] = s[1];
+        // d[i][j]: 현재까지 j개 계단 연속 -> i번째 계단까지 올라갔을 때 점수 합 최댓값, i번째 밟음
+        int[][] d = new int[301][3];
+        d[1][1] = stairs[1];
         d[1][2] = 0;
-        d[2][1] = s[2];
-        d[2][2] = s[1] + s[2];
+        d[2][1] = stairs[2];
+        d[2][2] = stairs[1] + stairs[2];
 
         for (int i = 3; i <= n; i++) {
-            d[i][1] = Math.max(d[i - 2][1], d[i - 2][2]) + s[i];
-            d[i][2] = d[i - 1][1] + s[i];
+            d[i][1] = Math.max(d[i - 2][1], d[i - 2][2]) + stairs[i];
+            d[i][2] = d[i - 1][1] + stairs[i];
         }
-        System.out.println(Math.max(d[n][1], d[n][2]));
+        bw.write(String.valueOf(Math.max(d[n][1], d[n][2])));
+        bw.flush();
+        bw.close();
     }
 }
