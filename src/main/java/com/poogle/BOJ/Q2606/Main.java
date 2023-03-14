@@ -1,5 +1,6 @@
 package main.java.com.poogle.BOJ.Q2606;
 
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -31,8 +32,7 @@ public class Main {
         }
 
         dfs(1);
-
-        bw.write(String.valueOf(cnt));
+        bw.write(String.valueOf(cnt - 1));
         bw.flush();
         bw.close();
         br.close();
