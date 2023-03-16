@@ -29,9 +29,8 @@ public class Main {
         br.close();
     }
 
-    static void twoPointer() {
-        int start = 0, end = 0, sum = 0;
-
+    private static void twoPointer() {
+        int start = 0, end = 0, sum = 0, cnt = 0;
         while (true) {
             if (sum >= M) {
                 sum -= arr[start++];
@@ -43,6 +42,5 @@ public class Main {
             if (sum == M)
                 cnt++;
         }
-
     }
 }
