@@ -19,12 +19,14 @@ public class Main {
         int n = Integer.parseInt(st.nextToken());
         int r = Integer.parseInt(st.nextToken());
         int q = Integer.parseInt(st.nextToken());
+
         list = new ArrayList[n + 1];
         for (int i = 1; i < n + 1; i++) {
             list[i] = new ArrayList<>();
         }
         childArr = new int[n + 1];
         Arrays.fill(childArr, 1);
+
         for (int i = 0; i < n - 1; i++) {
             st = new StringTokenizer(br.readLine());
             int u = Integer.parseInt(st.nextToken());
@@ -32,21 +34,22 @@ public class Main {
             list[u].add(v);
             list[v].add(u);
         }
-        postorder(r, -1);
+
+        makeTree(r, -1);
         for (int i = 0; i < q; i++) {
             int index = Integer.parseInt(br.readLine());
             System.out.println(childArr[index]);
         }
     }
 
-    private static void postorder(int index, int parent) {
-        for (int next : list[index]) {
-            if (parent != next) {
-                postorder(next, index);
+    private static void makeTree(int currentNode, int parentNode) {
+        for (int next : list[currentNode]) {
+            if (parentNode != next) {
+                makeTree(next, currentNode);
             }
         }
-        if (parent != -1) {
-            childArr[parent] += childArr[index];
+        if (parentNode != -1) {
+            childArr[parentNode] += childArr[currentNode];
         }
     }
 }
