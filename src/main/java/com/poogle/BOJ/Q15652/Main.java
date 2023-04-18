@@ -1,38 +1,46 @@
 package main.java.com.poogle.BOJ.Q15652;
 
-import java.util.Scanner;
+import java.io.*;
+import java.util.StringTokenizer;
 
 public class Main {
     static int[] a = new int[10];
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int m = sc.nextInt();
+    static StringBuilder sb = new StringBuilder();
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        int n = Integer.parseInt(st.nextToken());
+        int m = Integer.parseInt(st.nextToken());
 /*        순서로 풀이
-        System.out.println(go(0, 1, n, m));
+        go(0, 1, n, m);
+        bw.write(String.valueOf(sb));
+        bw.flush();
+        bw.close();
+        br.close();
 */
 //        선택으로 풀이
         System.out.println(go(1, 0, n, m));
     }
 
 /*    순서로 풀이
-    private static StringBuilder go(int index, int start, int n, int m) {
+    private static void go(int index, int start, int n, int m) {
         if (index == m) {
-            StringBuilder sb = new StringBuilder();
             for (int i = 0; i < m; i++) {
-                sb.append(a[i]);
-                if (i != m - 1) sb.append(" ");
+                sb.append(arr[i]);
+                if (i != m - 1)
+                    sb.append(" ");
             }
             sb.append("\n");
-            return sb;
+            return;
         }
-        StringBuilder ans = new StringBuilder();
         for (int i = start; i <= n; i++) {
-            a[index] = i;
-            //순서로 풀이
-            ans.append(go(index + 1, i, n, m));
+            arr[index] = i;
+            go(index + 1, i, n, m);
         }
-        return ans;
     }
  */
     static StringBuilder go(int index, int selected, int n, int m) {
