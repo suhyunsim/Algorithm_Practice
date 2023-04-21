@@ -6,55 +6,64 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = 4;
-        char[][] a= new char[4][8];
+        char[][] arr = new char[4][8];
         for (int i = 0; i < n; i++) {
-            a[i] = sc.next().toCharArray();
+            arr[i] = sc.next().toCharArray();
         }
         int k = sc.nextInt();
         while (k-- > 0) {
+            //회전시킨 톱니 번호
             int no = sc.nextInt() - 1;
+            //방향(1: 시계 / -1: 반시계)
             int dir = sc.nextInt();
             //각 톱니가 어떤 방향으로 회전하는지
             int[] d = new int[n];
             d[no] = dir;
-            //왼쪽
+
+            //조사하기
+            //왼
             for (int i = no - 1; i >= 0; i--) {
-                if (a[i][2] != a[i + 1][6]) {
+                //다른극
+                if (arr[i][2] != arr[i + 1][6]) {
                     d[i] = -d[i + 1];
                 } else {
                     break;
                 }
             }
-            //오른쪽
+
+            //오
             for (int i = no + 1; i < n; i++) {
-                if (a[i - 1][2] != a[i][6]) {
+                //다른극
+                if (arr[i - 1][2] != arr[i][6]) {
                     d[i] = -d[i - 1];
                 } else {
                     break;
                 }
             }
+
+            //회전하기
             for (int i = 0; i < n; i++) {
                 if (d[i] == 0) continue;
                 if (d[i] == 1) {
                     //시계방향
-                    char temp = a[i][7];
-                    for (int j = 7; j >= 1; j--) {
-                        a[i][j] = a[i][j - 1];
+                    char temp = arr[i][7];
+                    for (int j = 7; j >= 1 ; j--) {
+                        arr[i][j] = arr[i][j - 1];
                     }
-                    a[i][0] = temp;
+                    arr[i][0] = temp;
                 } else if (d[i] == -1) {
                     //반시계방향
-                    char temp = a[i][0];
+                    char temp = arr[i][0];
                     for (int j = 0; j < 7; j++) {
-                        a[i][j] = a[i][j + 1];
+                        arr[i][j] = arr[i][j + 1];
                     }
-                    a[i][7]= temp;
+                    arr[i][7] = temp;
                 }
             }
         }
         int ans = 0;
         for (int i = 0; i < n; i++) {
-            if (a[i][0] == '1') {
+            if (arr[i][0] == '1') {
                 ans |= (1 << i);
             }
         }
