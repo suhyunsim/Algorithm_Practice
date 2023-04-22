@@ -47,7 +47,7 @@ public class Main {
                 if (d[i] == 1) {
                     //시계방향
                     char temp = arr[i][7];
-                    for (int j = 7; j >= 1 ; j--) {
+                    for (int j = 7; j >= 1; j--) {
                         arr[i][j] = arr[i][j - 1];
                     }
                     arr[i][0] = temp;
@@ -61,6 +61,7 @@ public class Main {
                 }
             }
         }
+
         int ans = 0;
         for (int i = 0; i < n; i++) {
             if (arr[i][0] == '1') {
