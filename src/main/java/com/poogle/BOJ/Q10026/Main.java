@@ -1,57 +1,54 @@
 package main.java.com.poogle.BOJ.Q10026;
 
+import java.io.*;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Scanner;
 
 public class Main {
+    static String[][] board;
+    static int N;
+    static boolean[][] checked;
+    static int[] dx = new int[]{-1, 0, 1, 0};
+    static int[] dy = new int[]{0, -1, 0, 1};
 
-    static int n;
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-    static char[][] board;
+        N = Integer.parseInt(br.readLine());
+        board = new String[N][N];
 
-    static boolean[][] check;
-
-    static int[] dx = {-1, 0, 1, 0};
-
-    static int[] dy = {0, -1, 0, 1};
-
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
-        board = new char[n + 1][n + 1];
-        check = new boolean[n + 1][n + 1];
-        for (int i = 0; i < n; i++) {
-            String row = sc.next();
-            for (int j = 0; j < n; j++) {
-                board[i][j] = row.charAt(j);
-            }
+        for (int i = 0; i < N; i++) {
+            board[i] = br.readLine().split("");
         }
 
-        //정상
+        checked = new boolean[N][N];
         int cntN = count();
 
-        //적록색약
-        check = new boolean[n + 1][n + 1];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'G') {
-                    board[i][j] = 'R';
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < N; j++) {
+                if (board[i][j].equals("G")) {
+                    board[i][j] = "R";
                 }
             }
         }
-        int cntS = count();
 
-        System.out.println(cntN + " " + cntS);
+        checked = new boolean[N][N];
+        int cntY = count();
+
+        bw.write(cntN + " " + cntY);
+        bw.flush();
+        bw.close();
+        br.close();
     }
 
     private static int count() {
         int cnt = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (!check[i][j]) {
-                    cnt++;
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < N; j++) {
+                if (!checked[i][j]) {
                     bfs(i, j);
+                    cnt++;
                 }
             }
         }
@@ -61,25 +58,25 @@ public class Main {
     private static void bfs(int x, int y) {
         Queue<Node> queue = new LinkedList<>();
         queue.offer(new Node(x, y));
-        check[x][y] = true;
+        checked[x][y] = true;
+
         while (!queue.isEmpty()) {
             Node node = queue.poll();
             for (int i = 0; i < 4; i++) {
                 int nx = node.x + dx[i];
                 int ny = node.y + dy[i];
-                if (nx >= n || nx < 0 || ny >= n || ny < 0) {
+                if (nx < 0 || nx >= N || ny < 0 || ny >= N)
+                    continue;
+                if (checked[nx][ny] || !board[nx][ny].equals(board[x][y])) {
                     continue;
                 }
-                if (check[nx][ny] || board[x][y] != board[nx][ny]) {
-                    continue;
-                }
-                check[nx][ny] = true;
+                checked[nx][ny] = true;
                 queue.offer(new Node(nx, ny));
             }
         }
     }
-
 }
+
 
 class Node {
 
@@ -89,5 +86,4 @@ class Node {
         this.x = x;
         this.y = y;
     }
-
 }
