@@ -4,21 +4,18 @@ import java.util.PriorityQueue;
 
 public class Solution {
     public static int solution(int[] scoville, int K) {
-        int answer = 0;
-
-        PriorityQueue<Integer> heap = new PriorityQueue<>();
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
         for (int i : scoville) {
-            heap.offer(i);
+            pq.offer(i);
         }
-        while (heap.peek() < K) {
-            System.out.println(heap);
-            if (heap.size() < 2) return -1;
-            int f1 = heap.poll();
-            System.out.println("f1: " + f1);
-            int f2 = heap.poll();
-            System.out.println("f2: " + f2);
-            int newFood = f1 + f2 * 2;
-            heap.offer(newFood);
+        int answer = 0;
+        while (pq.peek() < K) {
+            int l1 = pq.poll();
+            int l2 = pq.poll();
+            int max = l1 + l2 * 2;
+            if (pq.isEmpty() && max < K)
+                return -1;
+            pq.offer(max);
             answer++;
         }
         return answer;
@@ -26,6 +23,6 @@ public class Solution {
 
     public static void main(String[] args) {
         System.out.println(solution(new int[]{1, 2, 3, 4, 5, 6}, 10));
-//        System.out.println(solution(new int[]{1, 1, 1, 1, 1, 1}, 27));
+        //        System.out.println(solution(new int[]{1, 1, 1, 1, 1, 1}, 27));
     }
 }
